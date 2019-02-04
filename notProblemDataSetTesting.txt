@@ -1,0 +1,1573 @@
+noProblem They did include the test plan section and it is enough.
+noProblem The test plan is excellent. It includes all the cases to be considered and it's expected output. The authors haven't missed any scenarios.
+noProblem Yes conditions are tested well.
+noProblem Maybe add the code to wiki.
+noProblem Yes, the test plan including setup environment and all the cases they need to test.
+noProblem They do have clear testing section, but not said as test plan.
+noProblem The report mentions all the required details like the problem statement , the old version of the code and the improved version of the code and how well it is improved and implemented , thus the report is also very well articulated
+noProblem Yes each topic description starts with what the current issue is, what are the changes made and how is it impacted and what is the end result. Nicely Articulated
+noProblem The implementation strategy is clearly discussed in the writeup which is easy to follow.
+noProblem Yes, the bug to fix flow is very well explained. Comprehensive and easy to understand.
+noProblem The writeup explains the implementation approach for every functionality that they implemented.
+noProblem Yes, all the have done are shown in the github link.
+noProblem yes, this writeup has explain how and why the authors did the work the way they did, and also, there are some expamles that included in the writeup.
+noProblem Yes, they mentioned in wiki page that they used RSpec and Virtual Box tools to accomplish this mission. Also, they comment all the method they need to test just below the subtitle which is nice layout.
+noProblem Seems all variables and methods follow certain naming rules.
+noProblem The variable , method and class names all seem to be reasonable and well written.
+noProblem The code seems DRY and follows good design principles avoiding redundancy.
+noProblem Can not run servo as I dont have the needed environment.
+noProblem The writeup was well written and explained what the Mozilla project was about. It also mentioned the purpose of the project along with the technology used to implement the same.
+noProblem The document is really well written specifying clearly the functionalities worked on.
+noProblem Not any clue.
+noProblem The writeup details the work done by the authors and mentions how they approached implementing the OffScreenCanvas API.
+noProblem Everything looks complete.
+noProblem The writeup is the Test Plan.
+noProblem They dont have a test plan exclusively listed out but the document can give insights on how things were done.
+noProblem Yes the team tested all the True/False return values
+noProblem Because the writeup is the test plan, and all the tests are in the writeup, and all tests pass, they get 5 stars.
+noProblem The test cases mentioned in the write up are implemented. They are working expected.
+noProblem Yes they have 100% coverage.
+noProblem Great use of whitespace and indentation.
+noProblem Each test case appears to be quite smooth and minimal.
+noProblem Nicely formatted and written code.
+noProblem Descriptions in Rspec are self-explanatory and easy to follow.
+noProblem Code coverage is increased fromÂ Â (+9.7%) toÂ 46.487% but theÂ build has failed. Coding standards are fo
+noProblem Very nicely written Wiki.
+noProblem Very detailed writeup shows how they test each method. I like that they show how they found some bugs!
+noProblem TheÂ functionality is clearly indicated.
+noProblem Detailed document with all the necessary details. Easy to understand the idea and the work done in the project. Good job!
+noProblem Yes,Â the Methods are explained like what it does and how it is used to test. Yes, we can understand what the project does
+noProblem They wrote clearly what they have done and also wrote the bugs they found. Very good.
+noProblem The write-up is good explains whyÂ they did cetainÂ changes.
+noProblem Very nice and detailed explanations of the test cases, nice edge cases captured.
+noProblem This write-up goes into detail and explain the rationale behind every line of testing code.
+noProblem Writeup demonstrates why they test each method the way they do. The placement of each method before the test which tests it is great.
+noProblem The wiki link clearly explains what and why they did.
+noProblem Yes Team has explained where they are using a Mock
+noProblem Yes they explained very well about how and why they did the work, and they also pasted their code and explained them in detail.
+noProblem Everything seems to be working for me.
+noProblem Video shows 100% LoC coverage and all test cases pass. I suspect their edge case coverage is quite good too based, on the number of tests.
+noProblem Team had mentioned couple of BUG in specific line in the Model Class. Corrected those config and ran the RSPEC Test and it is 100% covered
+noProblem According to their video, their test runs pretty good.
+noProblem Code coverage is 100% for the required file.
+noProblem All the cases discussed in the test plan have been implemented.Â Well done in achieving 100% test coverage and passing all the tests.
+noProblem over 9000! I mean 90%! Great job testing Participant y'all!
+noProblem YES.
+noProblem Yes and it all passes too.
+noProblem Every test case that is provided on the wiki page is part of the automated test suite. There are no cases of failing tests.
+noProblem yes they have automated test and all of them pass
+noProblem Names for variables, classes, and method are properly named and make sense.
+noProblem They kept working on it and did really impressive.
+noProblem It looks great. Everything is followed.
+noProblem Yes there is no unreasonable function names and all method name are suggestive and apt
+noProblem This was a testing project and the mocked objects were appropriate.Â The code is DRY. There is no redundancy in the code.
+noProblem So fresh and so clean, clean! This code is too neat to even be dry. Too hot to touch. I'm just still super impressed by the wiki and the video.
+noProblem All the code is in a single file as it tests a single model and it seems to cover it extensively. It also looks like there's no DRY issues.
+noProblem Code seems to be concise and well written.
+noProblem The features work as intended, they cover the test cases and edge cases as well.
+noProblem After working through several edge case side effects, by hand, up hill, both ways, it looks like all of their bases are covered and edge cases satisfied.
+noProblem The features work as intended
+noProblem Since coverage is 100% and the code looks good to me, I am assuming it works fine.
+noProblem Running the code manuallyÂ resulted in theÂ 100% coverage of theÂ object under test.
+noProblem This wiki is very detailed and explains what is done for every tested method. It also contains links to all resources one may require to understand the functionalities of the project. Great Job guys !!!
+noProblem This is easily the most clear of any testing write-up that I have seen to-date. It is organized into meaningful sections that follow their test plan, and show of their deliverables.
+noProblem The wiki pageÂ provides clear details about the work, and very easy to understand.
+noProblem The writeup is clear and easy to understand.
+noProblem Yes, it is easy understand that it is a testing project and how it is done.
+noProblem looks like edge cases and invalid inputs are handled.
+noProblem The test plan look complete enough.
+noProblem The plan looksÂ good and it covers a lot of cases.
+noProblem the write up doesn't has a testÂ plan but looking at the code it seems they have check every edge case. Also since there coverage is coming to to be 100% , everything should work.
+noProblem The test plan is comprehensive and fully covers all the methods and cases that are part of the object under test. Running the test suite yields 100% overall coverage.
+noProblem Yes they have come up with all possible inputs, edge cases and wrong data entries to check the system behaviour is not faulty
+noProblem For every tested method, they explainÂ what they did and why they did it.
+noProblem They even wrote down their plan to accomplish the project! I love it.
+noProblem It is a testing task, I assume there is not any design needed.
+noProblem It explains clearly what tests are missing and how the coverage is increased.
+noProblem YesÂ they have explained everything.
+noProblem They team has thought through efficiently to use design options that avoid test reruns and to dry out some mocks settings
+noProblem All the variables and function names used are appropriate.
+noProblem The variables, names are well assigned.
+noProblem Functions and variables are named aptly
+noProblem The features work as intended. Edge cases are properly executed.
+noProblem The code works.
+noProblem The write up addresses details of all the three problem statements along with the code changes done in every file and the files added. The team has also added screenshots of the manual testing and the video demonstrating the functionality they added.
+noProblem The write up covers all the issues and is well organized, including the code blocks and the screenshots.
+noProblem The Documentation is well written and indicated clearly what was the problem tackled and how it was approached and solved
+noProblem Yes, the team has clearly stated the problem statement and the changes they have done to provide solutions to the problem. They have been given 3 problems to which they have clearly provided the names of the files and the part of the code which is changed. The video explains the problem and the implemented solution perfectly without any ambiguity.
+noProblem The write up clearly explains about the modifications made in Expertiza.Â It indicates the functionality of their work which is topic management and the problem statement is clearly elaborated. It provides the files changed and also the code snippets in which the changes are made. The write up also provides visualÂ representations of the changes made.
+noProblem writeupÂ is very well written, contains enoughÂ screenshots and explanationsÂ of the code.
+noProblem The team has explained the issue and the solution they chose with enough details to understand to way of implementation.
+noProblem Yes allÂ the 17 test cases are automated. They have reached the goal of 90% coverage .
+noProblem Test cases are present.
+noProblem Yes all 17 test cases are automated
+noProblem Everything in the wiki was a test.
+noProblem It seems you have cover 94% of the participant.rb. However, all checks have failed in the pull request test.
+noProblem Yes, the admin has included the Test Plan cases in the automated tests.
+noProblem The authors have implemented every test case that is discussed in the test plan. Detailed explanations and code itself is provided in the project's wiki page.
+noProblem All variables, methods and class names lookÂ reasonable.
+noProblem it follows the standard ruby practices . All the variables , methods and class name look reasonable. The added tests looks very clean
+noProblem Naming conventions are followed. Test coverage has increased.
+noProblem Coverage has increased by 7 percent overall
+noProblem The added tests look very clean.
+noProblem Pull request build passes well and there are no issues.
+noProblem FuncyFunctionalare of correct length.
+noProblem Does not apply as its a testing project with most testcases written in a single Rspec file to test the functionality
+noProblem Well, the code looks good and very much follows the Ruby Style Guide. The code also is DRY. It looks well written and does not any changes.
+noProblem Video covers how to run the test cases which are clear and understandable.
+noProblem Tests work
+noProblem Yes, after testing the work manually, I could see that their features are working as intended.
+noProblem The write is very descriptive and included code from both the model and the spec file.
+noProblem The writeup explains how the tests relate to their respective methods.
+noProblem very clearly writeup.
+noProblem It is well written, quite understandable. It clearly and adequately indicates the working functionality. I can understand what the project is about.
+noProblem Yes the test appears complete as they have mentioned all from setting up the expertiza environment to the tests that they have implemented along with the plan of the they executed their project
+noProblem Yes, the Test Plan looks complete and includes all the test cases and the actions.
+noProblem Yes the have mentioned all of the required work and its related explanation. they have reasoned out their exact methods and the issues to be considered while testing in the problem statement.
+noProblem Functionalities have been tested properly.
+noProblem Yes, the writeup explains explains how the authors did their work and they have mentioned the steps behind each functionality. They have put a video explanation of the same.
+noProblem Yes, it looks they have converted all the cases into the Test Plan.
+noProblem Good work on including test cases. The app works fine after testing.
+noProblem Yes most of them but they have not added any automated integration tests. Unit testing has been done and is great to see such detailed tests
+noProblem All the test plan is converted to automated testing.
+noProblem The variable and method names are apt.
+noProblem Yes. the variables have been very keenly named. Especially in the file, _rubric.html.erb, the variables are very accurately and effectively named, as there could have been much confusion otherwise. Kudos for that.
+noProblem The variables, methods and class names are aptly named. I could not find names which are not suggestive of functionality.
+noProblem The code follows standards.
+noProblem The code follows the DRY principle.
+noProblem 3
+noProblem Great work. Clearly Understandable. Functions are of appropriate length, Codes are in appropriateÂ methods,Â Code is very well commented, Code follows ruby style guide. Good naming.
+noProblem They do work as intended.
+noProblem All of the features mentioned by the author works successfully in the demonstration as well as in the manual tests performed by me.
+noProblem Could not detect any flaws. Works exactly as it has been been in the wiki. Good guidance.
+noProblem Tested in the links given, the changes are working correct. The server is up and I was able to reflect the steps mentioned.
+noProblem I can find where is the bookmarks page, but according to their screenshots I think their features work well.
+noProblem The write-up is very clear and directs user to the main issue very well. The flow is very structured, in the sense that first it gives a high level view of what expertiza is, it then tells about the book-mark functionality, and then tells the problem and how they came up with the solution. One of the most professional wiki I've reviewed.
+noProblem The writeup is clear. It is easy to understand what the project does.
+noProblem The write-up was splendid. All instructions were written thoroughly. I did not face any problem in understanding. Also, screenshots guided well
+noProblem They have included a test model video in which all the test are passing. It looks complete
+noProblem Yes. The test plan is present in the writeup. Also, the links to youtube videos for the demonstration was particularly helpful too.
+noProblem The authors considered different pre-conditions, edge cases, invalid input values, and other possibilities and i clearly well written. Test Plan looks complete
+noProblem Yes, I followed the youtube link to check the tests and they have tested the controllers.
+noProblem TestplenÂ looks exhaustive and is explained well.
+noProblem They don't have Test Plan section, but they added some screenshots of the test result, I can see they have pretty good path coverage. But I can not know if they test edge cases or invalid input values without seeing their Test Plan.
+noProblem Yes, the problem statement was explained thoroughly. Also, the team very aptly described why the issue needs to be fixed. great work !
+noProblem I do not see any test plan in the writeup.
+noProblem The newly added code does not resolve the previous issues to great extent.
+noProblem The deployed setup cant be reached. The site is not up.
+noProblem Code works.
+noProblem The project seems to be incomplete. The work done is also not properly mentioned in the writeup.
+noProblem Test cases are failing
+noProblem The test plan focusses on a particular scenario for the functionality to work and does not handle validations and edge cases
+noProblem Include the code snippet in the write up as well.
+noProblem There was no test plan. Also all the test cases don't seem to have been written which is evident since the code coverage 46 percent.
+noProblem They have added Rspec and Unit tests
+noProblem Edge cases are covered as well.
+noProblem Yes, the admin has included the Test Plan cases in the automated tests.Â They have solved all the issues they were tasked with.
+noProblem Variable names methods and class names look fine to me.
+noProblem The build is passing the test coverage and the bullet points mentioned in the issues section have been properly implemented to achieve the desired result. All the issues have been implemented as discussed.
+noProblem Test not passed
+noProblem The chnages made by the author seemed to follow most of the guidelines that a professional prgrammer should follow. The variable names were unambiguous and clearly stated what they stood for. Also the functions and classes did what they stated.
+noProblem The writeup is good and clearly mentions the issues to be solved.
+noProblem The test plan is very good and there is also a videoÂ file which clearly shows the manual testing being done.
+noProblem The code added in the pull request is reasonable.
+noProblem The code added appears to be dry.
+noProblem All the names suggest the functions well.
+noProblem The code for the export_file controller and models for question_advice are tested adequately with the questionnaires_controller sepc model file. The variables, methods and class names follow the general standard Ruby practices.
+noProblem The code overall seems dry. The functions are to the point and the code follows Ruby Style Guide.
+noProblem well explained in the video file
+noProblem All the names are intuitive and reasonable. Good job following naming conventions!
+noProblem Very clear.
+noProblem The features do work as expected. The authors have implemented all that they claimed that they would do.
+noProblem The link for the work can not be accessed, but according to the video they provided, the features works well.
+noProblem The test cases written work as specified. The features are working as intended and the functionality is getting implemented with minimal errors.
+noProblem I think it is well written, quite understandable. It clearly and adequately indicates the working functionality. I can understand what the project is about.
+noProblem The wiki document provides the necessary details about the project and the tasks performed by the team. It gives a general overview of the project implementations, the functionality carried out by the team.
+noProblem The document clearly explains not only the problem statement but also what Expertiza actually is. It proceeds to explain how they solved the problem of the rubric criteria.
+noProblem The documentation is well done and gives a comprehensive overview of the project
+noProblem Yes, the author did include test plans and test cases. Also the test cases seem sufficiently exhaustive to cover most of the edge cases.
+noProblem The Test Plan along with the existing issues and its solution is given.
+noProblem No test plan, even though they did have the task of testing the questionnaire controller
+noProblem Test plan is nicely written and implemented
+noProblem The plan gives enough roles for the first issue to test if the code works well.
+noProblem Yes, as mentioned earlier, this part was very aptly implemented by the author.
+noProblem Explained Clearly
+noProblem The document explains the different files which they had to change along with why the previous version was not up to par. Then they show their implementation of the file
+noProblem The writeup describes the problem statements, solutions and the 'why' and 'how' of the problem. The screenshots were clear.
+noProblem The writeup enlists a thorough report from the environment setup to the project build. It includes a proper check on the problem at hand, the approach to achieve the goals and the solution implemented.
+noProblem They wrote many test cases I think they are enough, but I didn't find edge cases or invalid input tests.
+noProblem No design patterns were used. The write up explains the implementation and screenshots of code explains the flow better.
+noProblem The write up explains the functionality. The problem statement gives a clear view of the project.
+noProblem The variable, class and method names are named appropriately and they suggest the functionality.
+noProblem The authors have included a thorough test plan and they seem to have considered a lot of test cases. The tests convey they entire flow properly and show that the bugs have been fixed.
+noProblem The variables, methods, and class names do seem to follow proper convention and are suggestive of the functionality they are being used for.
+noProblem All the tests have been added as per the test plan and have been run successfully.
+noProblem Authors have clearly explained what needs to be done to fix the issue, how it is done and why it is done.
+noProblem Yes, the test plan looks complete enoughÂ and all the edge cases have been tested. The document also includes the screenshots of the manual testing.
+noProblem The test plan looks good enough for the fix they have provided.
+noProblem The variable and method names look clean and concise. No new class is added.
+noProblem The functions are small and well defined.
+noProblem The feature works as it is supposed to. Don't see any issues.
+noProblem this is refractoringÂ project , doesn't involve new test cases .
+noProblem All the cases discussed in Test Plan have been converted into automated tests.
+noProblem The team has separated the existing methods of a class in 2 sub classes. They have used meaningful names for same. The team has not added any new functions as per the wiki description.
+noProblem Variable andÂ method names seems to be appropriate.
+noProblem The variable/method names and class names are intuitive and follow Ruby standards.
+noProblem Code adheres to the Ruby coding standard. The team has also implemented strategy design pattern.
+noProblem The code is more about the changes in the database and it does follow the standards.
+noProblem The code follows Ruby Style Guide.
+noProblem refactoringÂ is done really well.Â there were no violation of DRY principle
+noProblem The code follows DRY principle. None of the methods needs to be broken down into separate components.
+noProblem Code is concise as mentionedÂ Methods are extracted into separate methods Comments are sufficient I could understand it The code is as per Ruby guide Most of them are DRY code
+noProblem The features are working as per intended plan of work.
+noProblem Couldn't test theÂ features as no information regarding logging in credentials were provided anywhere.
+noProblem Most of the edge cases cover
+noProblem The write up addresses the problem statement and explains about the background of the functionality.
+noProblem writeup is clear and easy to understand .Â it covers all the work
+noProblem Very well written.
+noProblem The writeup gives us enough clarity to understand what the project is about.
+noProblem The report is detailed enough to explain the approach taken to refactor the code.
+noProblem Very well written. The purposeÂ was clear!
+noProblem Yes the write up is concise
+noProblem Yes, it does explain the previous functionality and their changes will take affect. The explanation is done with diagram as well as the query.
+noProblem Yes, explains well.
+noProblem clearly explained about the implementation and usage of the strategy pattern
+noProblem The authors clearly explain how they refactored the code.
+noProblem They explained how they used StrategyÂ PatternÂ and why they used it. Loved the walkthrough!
+noProblem I could see a clear description of the changes and good naming conventions
+noProblem Everything seems to be working fine
+noProblem Existing test cases have been fixed for review feedback by a team instead of a team member.
+noProblem Naming of classes and variables are apt.
+noProblem All method names are suggestive of the functionality they provide.
+noProblem The team has properly used the naming conventions for variables and functions. The functionality could be easily interpreted by reading the name
+noProblem Basic test cases are covered in the test plan
+noProblem Team has taken care of test plan with automated test cases. As mention by team, they have implemented capybara testing and has good understanding of it.
+noProblem All tests added pass.
+noProblem Include test cases for negative scenarios as well.
+noProblem Up to standards with ruby coding practices
+noProblem The code is well modularized and separate methods have been created to provide different functionality. eg: added get_feedback_assessment method to add feedback for a team.
+noProblem Methods, variables and class names are well defined as per the standards.
+noProblem The code has all 5 of the following characteristics: (i) is DRY (ii) follows Ruby style guide (iii) is commented (iv) does not contain long methods (v) variables and functions are properly named.
+noProblem The team has done a good job of maintaining the code DRY and as neat as possible. No suggestions to improve.
+noProblem Variables, methods and class names are given professionally with reasonable meaning. The names very well indicate the functionality to be performed by the name/variable.
+noProblem The code added in the project uses intuitive naming conventions. Good job guys !!
+noProblem Pull request build passe well and there are no issues.
+noProblem features are working as intended.
+noProblem Function names seemed to be clear enough and satisfactory.
+noProblem Names are clearly used and defined as given. def remove_administrator redirect_to action: 'list_administrato
+noProblem 1. Function written are simple, crisp and clear. No long functions or dead lines of codes 2. Team has taken care of modularization. No part of code needs to be added as separateÂ method 3. Code and names given to variable do help to understand the flow of the code. 4. Code follows Ruby style guide. 5. DRY principle is followed very well within the two functions changed.
+noProblem The code seemed fine and follows the ruby guide style. I could understand the flow of the code and what different functions did.
+noProblem They have explained about how they are using DRY principles in wiki. Refactoring a new method like,Â def self.destroy_helper(params, position) inÂ (users_controller.rb) clearly explains the DRY method being used
+noProblem I have manually tested the changed functionalities and issues are taken care very well. Team has given justice to problem statement assigned to them, but with in the scope of issue assigned. Also taken care of edge cases.
+noProblem I could get things working.
+noProblem Manually tested the functionality of teammate review. Working as expected.
+noProblem The features are working as expected in this project. The views have changed to fit the new implementation.
+noProblem the write-up provides adequate information along with before and after code which helps in better understanding of the issues and changes made
+noProblem Team has written a professional and understandable writeup. Formatting is good. With good explanation of the approach taken to solve the issue. Creative way of writing before and after of the code snippet. Team could have added pictures to make it more relatable for users new with Expertiza.
+noProblem The writeup is clearly and adequately defined. It shows what the project is about, what all changes the team have made, all assumptions they have made and edge cases which they have ignored as they were out of the scope of the project.
+noProblem Well explained. Add screenshot of the changes which can help understand the change visually.
+noProblem Please add a guide in the wiki where to test if the features work or not. Initially found it difficult in the expertiza page where it has been modified.Â The software works as expected in most cases. Was able to check the following participant feedback displays author feedback view toÂ whole team checking feedback assessment give feedback and edit feedback functionalities in the review view
+noProblem The writeup was written well enough to how and what the project does. The only suggestion is to include screenshots. That would make the write up even more easy to understand.
+noProblem Couldn't log in to test the code as no credentialsÂ were provided anywhere.
+noProblem It works fine for the cases tested.
+noProblem Yes, test plan is complete enough also team has explained the test plan technology to used to achieve it. Good knowledge of Capybara testing. Team could have added test scenarios for each issue step by step rather than single lines.
+noProblem Test plan seems complete enough.
+noProblem Written very well explained approach taken to solve the issue.. Along with what was the actual problem existed previously in the system and how team has given a thought process the fix the issue. No type of design patternÂ is involved.
+noProblem The authors concisely explain the work they did. As a suggestion, I would ask them to include the tests written in the wikipedia page as well. The idea is for any reader to understand 100% what all happened in the project, without looking at the code.
+noProblem Yes, the writeup explains explains how the authors did their work and they have mentioned the steps behind each functionality. They have made an UML diagram as well.
+noProblem Write clearly explains the changes done.
+noProblem The team does explain how and what they did.
+noProblem The writeup includes their thinking methodology and why they arrived at that solution. 'Changes'Â under 'User Deletion' clearly explains what went wrong in the existing code and what should be added. One suggestion would be, instead of showing 'Before' and 'After', they could have leveraged Git s UI version of + , - in red and green to have shown the differences. But 'before after ' way worked too !
+noProblem Nicely written Wiki with screenshots describing some of the changes made.
+noProblem Yes, the purpose of the project is clearly explained.
+noProblem Most of the edge cases seemÂ to be covered.
+noProblem Unfortunately, the write-up does not include a test plan. The team has included the following line in the "Testing" section: "Fixed the existing test cases for the review feedback by a team instead of a team member." The team could improve this by adding the test cases to maybe to check whether the "get_feedback_assessment" method returns the proper assessment using teamid or not or check whether the summary reports navigation redirects the user to the correct page or not.
+noProblem All of the cases discussed in the Test Plan have been included in the test file. And all of them are also passing. Very good!!
+noProblem The tests have been properly converted into automated tests.
+noProblem The test cases are covered in the coded.
+noProblem They kept working on this test and improved it.
+noProblem The names are very intuitive. The build doesn't seem to have been passed because of the indentation errors and failure to follow certain design guidelines.
+noProblem the code follows correct name structure for variables, methods and class.
+noProblem All the names are used properly.
+noProblem Code contribution of all team members. The code doesn not smell dry
+noProblem The code looks good. It seems well ordered, structured, and 'DRY'.
+noProblem the function definition is of perfect size. the code follows the Ruby Style Guide.
+noProblem No idea how to manually test the authors file.
+noProblem The tests all pass successfully.
+noProblem Clearly.
+noProblem The wiki document was very clear with respect to the responsibilities of the group. it also detailed their approach to writing the tests as well as explained the functionalities that the tests were written on. Well done!
+noProblem The write up is perfectly written.It clearly describes what functionality the work is related to. It gives information for each aspect of the project.
+noProblem Test plan is well-rounded.
+noProblem test cases are thorough
+noProblem The test plan is accurate and checks for different pre conditions , edge cases , invalid input values. I could not find any missed scenarios.
+noProblem For the methods that include different conditions, they provided tests fo different kinds of conditions. Also, for each method, the team test various aspects of the method.
+noProblem Well explained information about the Design and the results.
+noProblem The write up is enough for me to understand.
+noProblem The document explained well the work and the approach to doing the work.
+noProblem The write up is clear with its goal. It nicely explains how and why did the author work in a particular way.
+noProblem The naming conventions are followed as per standards
+noProblem Follows ruby standard codes. Already implemented functions are changed and have stayed away from adding too many functionalities.
+noProblem Everything works fine according to me.
+noProblem Yes, the features which have been done till now work well.
+noProblem Very precise write-up with nice details on how the fixes were applied.
+noProblem The write up is detailed. All details are mentioned including files involved, solution as well as test plan and how they have done or implemented the solution. The code snippets also gives good idea of the project work. The first part gives detailed background of the project.
+noProblem Enough details has been provided.
+noProblem I think the test-plan is complete and most of the edge cases are covered.
+noProblem Test plan is manual.
+noProblem They have included test plan but few examples and screenshot of their work would have been a plus point.
+noProblem Testing is done manually and there is mention of automated tests in the wiki but no files are seen. It's better to provide all links like github code, testing videos and wiki while submitting on expertiza.
+noProblem I understood the write-up pretty well. I also liked to way the fix was implemented
+noProblem Yes, the writeup explains explains how the authors did their work and they have mentioned the steps behind each functionality. They have not used any design principles or patterns.
+noProblem Yes, team has explained why they worked in certain way.
+noProblem It explains their approach and issues they encountered like latin format, storing html tags and how they fixed it.
+noProblem All the cases discussed in the test plan have been implemented.
+noProblem they have done all the 29 test case and test them throughly.
+noProblem The team has tested all the methods of the corresponding model file.
+noProblem Well done in achieving 100% test coverage and passing all the tests.
+noProblem Yes they have converted them.
+noProblem work as intended to be
+noProblem Code style seems to be good.
+noProblem Not find anyÂ improper variable names or method names.
+noProblem Names for variables, classes, and method are properly named and make sense
+noProblem The code is DRY enough, and the functions seem to be compact.
+noProblem This was a testing project and the mocked objects were appropriate
+noProblem The code is DRY. There is no redundancy in the code.
+noProblem All the codes are of perfect length. That is actually one of the best thing about the code. It follows basic ruby style guide.
+noProblem Code climate issues that were reported have been fixed.
+noProblem For every tested method, they explain why theyÂ created certain objects or did what they did
+noProblem The writeup explains well the plan of work of the authors and the way in which they approached the task at hand.
+noProblem Appropriate explanations are provided for the tests.
+noProblem Yes the Test Plan part is pretty through, they list all 29 test case they have done for the assignment_team.rb.
+noProblem The Test Plan is detailed and comprehensive. Good job!
+noProblem no miss
+noProblem This wiki is very detailed and explains what is done for every tested method
+noProblem The write up is descriptive and very well written. I could easily understand everything about this project. Good job!
+noProblem From the document I could understand the functionality on which the tests were written.
+noProblem The writeup describes briefly and clearly what the AssignmentTeam class does in the expertiza project. It has also given the details on the test plan, test cases and explained the use of RSpec testing framework and factories. I would suggest to add a link to their video that shows the tests running in the wiki page. All in all good work!
+noProblem The tests are very well written. They clearly indicate what functionality they are checking for.Â The tests follow a language that is easy to follow.
+noProblem The writeup matches up very well with tests written and also describes in details what scenarios are tested.
+noProblem yes, very clear
+noProblem All tests works fine.
+noProblem It's a testing project and the video provided show that all test pass and they have at least 90% coverage
+noProblem As mentioned above, and also stated in the video and the pull request itself, the author has covered up everything.
+noProblem hey variables follow all the stanard conventions that it needs to.
+noProblem Yes the tests are automated, also the command to run the test is given in the wiki.
+noProblem The test cases given by the team work as described. The features are implemented accordingly. The edge cases are considered while designing the mocks. In general, all the code for test cases works as specified.
+noProblem Video seems fine, covers all the cases with 100% coverage.
+noProblem the code follows Ruby style guide. the code does not contain long methods. the variables and functions are properly named.
+noProblem They have covered all cases which they mentioned in the Test Plan
+noProblem the writeup just simply explanin what is expertiza and the requirement for this program.
+noProblem It has all the details about the testing for review_response_map class.
+noProblem Since it is a test project, their variables, methods and class names are reasonable and easily understand.
+noProblem Regarding the writeup,Â I told the changes which I felt needed above. The code looks comparatively neat. A clear video showing the test cases running will be appreciated.
+noProblem Write-up provides all the necessary information needed to understand the project but a brief explanation about certain methodsÂ would have been better.
+noProblem The unit test cases were completely fine, and covered almost all of the code.
+noProblem It divides testing codes into parts, and described purpose of each chunk of code.
+noProblem Briefly covered all the possibilities.
+noProblem As mentioned above, it lacks some depth in this.
+noProblem For testing I don't think there are any design related thing.
+noProblem No team could have given some info on that
+noProblem The coding syle is good well versed
+noProblem The code is written neatly and follows the suggested guidelines.
+noProblem The code is well written. DRY concepts are used.
+noProblem Test cases are effective, with minimal statements there is maximum coverage
+noProblem The code looks good.
+noProblem The code works fine for the listed functionalities. All the cases along with the edge cases are considered.
+noProblem the basic test cases are test well.
+noProblem The test cases work as expected and handles edge cases as well
+noProblem The code works in the edge cases also for delete an other tests mentioned.
+noProblem Yes, the code has all the possible test cases. Many of the edge cases are covered and listed in the wiki.
+noProblem the writeup does bot explain how and why the authors did the work the way they did.
+noProblem The wiki for this project contains tons of useful information about testing and rspec. I am not sure that some of it needs to be explained to the current extentÂ (example: what unit testing and TDD is or the environment set up). They are nice to include but maybe less as the purpose of the project is not to educate on those topics. Overall, this wiki did an outstanding job of describing the purpose of the project.
+noProblem They have clearly state what the platform is and what they have tested.
+noProblem This wiki is the most comprehensive one I've come across. Right from the basics of Expertiza to unit testing to developing and explaining the test cases, everything has been done to perfection. Also, the result and the explaination for choosing the test case is provided, which is very much appreciated.
+noProblem I think this team has done a nice job on the writeup of unit test, which contains every functionality of their work and is easy to understand.
+noProblem The writeup Problem Statement section is very clear about what their work relatedÂ to.
+noProblem The wiki document coherently specifies the overall procedure adopted by the team for the project. From the page, it is seen that the team have given a general overview of the project scope and additional functionality and references used towards the working of the project.
+noProblem wonderful job with 100% coverage
+noProblem All the tests passes with 100% test coverage. Great work!
+noProblem The team has worked well on changing magic numbers to reasonable variables. For example, 1 to item.
+noProblem From the pull request, it is clear that the team wrote test cases for the menu model and achieved a 100% coverage that checks for most of the edge cases. The variables included the mock instance have been adequately used for testing the methods.
+noProblem good job
+noProblem The code is "dry" enough with some "before" statement to prevent duplicate codes.
+noProblem code style is perfect
+noProblem The code properly provides test cases for both the Menu class and the Node class(in the Message class). The code follows the DRY principle such that all the test cases use the variables and scenarios appropriately.
+noProblem All the test passed.
+noProblem Yes, very well done on adding tests.
+noProblem Test cases not passed
+noProblem The write up is well formed and structured. The entire flow is explained along with files changed/methods implemented in each stage. Could have described the approach a bit more.
+noProblem Code convention for mail looks good but I found find_participant_emails misleading because it gets email for all participants and not emails for participant
+noProblem more comments are needed for clearity .
+noProblem There are some style issues related to spacing and unnecessary parenthesis.
+noProblem Did not find any problematic edge cases.
+noProblem The team have done a good job in explaining their work.
+noProblem the related functionality is mentioned.
+noProblem Perfectly explained write up along with the design document to get the better understanding of the issues and flow.
+noProblem writeup explains inÂ brief how and why the functionality of sidekiq was implemented.
+noProblem The wiki has been documented with a lot of details explaining the problem statement as well as the approach.
+noProblem Yes the writeup mentions why the authors did the work the way they did it by clearly posting screenshots of the code modifications done by them.
+noProblem The names seem to be appropriate to their functionality.
+noProblem The code is appropriate but additional comments would make the code much more readable
+noProblem The write-up is well written along with the screenshots attached for the code changes which helps in explaining the issues and changes made to solve those.Â Just one suggestion, if you are explaining all the steps and redirection for some issues/changes please keep the content consistent for other issues/changes as well.
+noProblem Well written
+noProblem Methods, names etc are used according to the functionality. As mentioned earlier half the code changes are explained.
+noProblem Basic functionalities working
+noProblem Wiki page is clearly and neatly written. I could understand what the project does. Writeup also has code snippets which has been modified.
+noProblem Yes the writeup explains how and why the did the modifications. It has comparisons between the previous and new versions and why they made they made the necessary modifications.Â There was no mention of using design principles or patterns.
+noProblem 1. Functions are of appropriate length 2. Codes are in appropriateÂ methods 3. Code is very well commented. Overall, great work. Clearly Understandable.
+noProblem The write up is well made!
+noProblem Problem is well defined but the authors have listed 3 issues that need to be fixed but they have only provided 2 links in the problem statement. It will be nice if they can give the link to the third as well.
+noProblem Yes authors have an details about code changes that they have done and why they have done. I would have liked more emphasis on "why"
+noProblem the writeup is understandable.
+noProblem not adequate explanation.
+noProblem All the cases are covered.
+noProblem Test Plans are missing
+noProblem Testing isn't applicable to this assignment.
+noProblem The background and problem statement are clear and concise. The description of the implementation is thorough but a little too detailed. It relies too much on the source code and not enough on figures and written explanation.
+noProblem Write up is easy to understand and follow.
+noProblem More of what is done is explained. Also, steps to manually test the instance could have been included.
+noProblem Workflows worked properly when I tried.
+noProblem The authors have not converted test cases into automated tests. However manual testing has been shown in the vedioÂ link attached
+noProblem All provided variables are well assigned.
+noProblem Good thing would be to increase the test coverage.
+noProblem Variables and methods seemed intuitive enough
+noProblem The functions added are not too long. This is the minimal amount of code that had to be added toÂ implement the changes.
+noProblem The commits show contribution by only 1 author. The code does not smell DRY.
+noProblem The code is DRY however, certain sections of the code could be shortened further.
+noProblem everything seems to be working fine.
+noProblem Since the code is not deployed, manually testing cannot be performed. But, the screencast shows that all the manual testing is passed.
+noProblem From the video it seems it should work fine with the edge cases as well.
+noProblem Manual testing could not be performed as the link to the deployed application was not available however the vedioÂ link attached sufficiently demonstrates how the features work.
+noProblem all the scenarios including the corner cases are working fine. No issues or problems were found with the functionality. The only issue is related to the CI built which is failing at the moment. The team needs to analyse the root cause related to the build failure and fix it. Other than that it was a great team effort!
+noProblem The write up seems quite understandable.
+noProblem The write up is well written and explain how and what is done in the project regarding all the issues.Â Just one suggestion- it would have been great if the screenshots were uploaded corresponding to the changes made. But, otherwise the writeup is understandable.
+noProblem Yes, the project is to do 2 things : 1. Stop teams from dropping assignments very late / close to deadline 2. Have different deadlines when assignments are done at different periods. The wiki should be created on expertiza page and not on wikipedia site.
+noProblem The write-up is clear and clearly explains the issues corrected.
+noProblem The wiki is well written and contains all required information regarding the project. The screenshots can be included in the wiki and the code pasted in the documentation could be formatted. The team also need to inlcude the test plan section in the wiki. Apart from this , the team did a great work.
+noProblem Good, but lacks readability. The code is directly copy-pastedÂ in the approachÂ section. You could have used the pseudo code with proper explanations. The structure and formattingÂ should be improved.
+noProblem No test plan is included but it seems that team have covered all the scenarios properly.
+noProblem The write up does not have a test plan.
+noProblem I found the test cases to be sufficient. No suggestion needed.
+noProblem I don't think there's any testing involved in this assignment.
+noProblem Writeup doesn't has a test plan but in the video they have testedÂ a lot. Also please add audio as well in your video explaining what you are doing and why so that its easy for the user to understand, otherwise watching 23 minutes silent videos is just to much.
+noProblem No proper test plan has been mentioned yet in the write-up. But a link to demo vedioÂ is available which includes the manual testing case.
+noProblem Test plan section is missing.
+noProblem Writeup clearly explains why the team followed the particular approach and additionally mentions all the steps followed,thus defining the approach clearly.
+noProblem The writeup does talk about the changes and why the authors did it that way. Â Rather than pasting the code (without any indentation) in the wiki page, the authors could have pasted screenshots of the code! This might have made it easier to comprehend.
+noProblem The readme was sufficient to explain details about the idea and also both the videos explain stepwise how this is achieved and demonstrates it. AlsoÂ the bugs are fixed and droptopicdeadline has been integrated into the code of this assignment.
+noProblem It's hard to understand the code you have changed from writeup. I sawÂ the changes in your pull request it looks good to me.
+noProblem Not very comprehensive.
+noProblem There are no changes to any files in the spec directory so there are no new tests.
+noProblem No tests were added.
+noProblem New method names and variables are fine, however this team did not add a lot of new classes, methods, etc.
+noProblem 2 failed and 1 accepted.
+noProblem Their code changes are little, though they have handled naming conventions in a good way, as illustrated below. def self.handle_duplicate
+noProblem The work done is successfully implementing the required changes
+noProblem all the code looks well written and dry to me.
+noProblem The handle_duplicates function has a lot of white space and print statements left in it. It could've been chopped up into tiny sub-functions too, hypothetically.
+noProblem 1. Functions are of appropriate length and well structured with respect to the purpose in question.Â 2. All code has been suitably well put into the methods with their intended function and work cutout for them.Â 3. No, the comments have been well placed and self explanatory making it easy to follow.Â 4. The code does follow the ruby style guidelines and is thorough in that regard.Â 5. Nope, all code is consistent and to the point.
+noProblem The code contribution is significant. The function such as import_team_members shows good coding practice and following Ruby code standards.
+noProblem Their code changes as per the pull request is less.Â They have done justice to the little code they changed.
+noProblem The code is well written following the concepts
+noProblem Worked as documented
+noProblem No test plan. Don't know why this question is even asked.
+noProblem Code is good enough.
+noProblem No test plan required I suppose.
+noProblem Yes, the team has efficiently detailed all the details about the projects and the need for their changes to providing code of their changes. They have also attached coverage and test run screen shots for references.
+noProblem I think the code looks good and very much follows the Ruby Style Guide. The code also is DRY. It looks well written and does not any changes.
+noProblem There is no Test Plan section at this time. However, the authors did include some discussion of edge cases and the fact that the initialize function required testing of known success case and potential failure. I think that this is sufficient without the inclusion of a Test Plan section. I would suggest that since this rubric calls for the section to just rearrange the content of your current page. Also, include the additional edge cases that you have already tested for in the other functions possibly with some specific examples. This will allow for a more thorough Test Plan section.
+noProblem Variable names and test cases are name appropriately. Test cases context, describe, and it statements are clear as to the division and purpose.
+noProblem The code is written very neat and follows suggest guidelines. Authors have done a great job with the DRY principle and bringing out statements that would have been otherwise repetitive in the test cases.
+noProblem The authors seem to have considered most edge cases and pre-conditions. The section isn't explicitly named 'Test Plan', but the necessary content is there.
+noProblem Everything is described clearly and the functionality added is easy to understand.
+noProblem All code is formatted well and neatly, with clear functionality.
+noProblem All tests designed were to be automated.
+noProblem Nothing to manually test.
+noProblem The write-up is descriptive and shows code from the _spec file paired with explanation.
+noProblem The pseudo-code test plan does a good job of explaining the functionality of the tests without being clogged up by implementation details. I do suggest putting it closer to the top of the wiki page though.
+noProblem All tests pass, and 100% coverage was attained.
+noProblem Very nicely written document with test-plan which explains each test case , why it is written and what it tests n simple English language.
+noProblem very nicely articulated description of all 29Â testcases.
+noProblem Rspec code looks good.Proper comments and good variable name usage are 2 things i will suggest to improve. Very good work overall.
+noProblem Yes , all 29 test cases have been automated. The youtube video describes it perfectly
+noProblem The tests run successfully even when cloned and run in development environment on VCL.
+noProblem Tried to cover maximum test cases and explained well in the document with the coverage and video
+noProblem The write-up explains the tasks adequately enough for a user to understand the expected outcome.
+noProblem They have explained the tests that needed to be implementedÂ to verify the working of the functionality.
+noProblem The test plan looks complete enough, they have covered most of the cases. The test coverage has increased a little bit.
+noProblem The write up is very clear, methods and test case are explained in a neat way
+noProblem The procedure and intention for writing the test cases is clearly mentioned
+noProblem All the scenarios are covered. Even the branch cases
+noProblem All of the above 5 criteria are met.
+noProblem Yes most of the edge cases is checked.
+noProblem The writeup has documented all the changes they have done, but could have been more elaborative on the exact functionality of menu.rb.
+noProblem No, all method names and describe provided are apt and to the point
+noProblem yes and all cases pass
+noProblem Their tests are very straight-forward and can be extended to test few edge cases
+noProblem Authors explain the test destination vividly.
+noProblem All variable names are reasonable and easy to understand.
+noProblem Neat code and well established form of the test.
+noProblem Test plan looks very generic.
+noProblem Test plan is given a appreciable thought and team has also implemented test scenarios mainly inÂ student_task_controller_spec.rb WouldÂ suggest team to try and increase test coverage.
+noProblem Good work on including test cases.
+noProblem The code changes are well organized and nothing is out of place.
+noProblem I could see commit performed by only single team member. 1. Functions are not too long or repeatative. 2. No code needs to be extracted as a new function. 3. Yes team need to add more comments. 4. Team does follow Ruby style guide. 5. Team understood rails and followed DRY principle well.
+noProblem I feel some comments can be added before every function for the code to be understood better.
+noProblem 1. Functions are of appropriate length 2. Codes are in approriateÂ methods 3. Code is very well commented. Overall, great work.
+noProblem the features added seem to be running good .
+noProblem The code works as it should.
+noProblem The wiki documentation has been updated. All the information has been documented in a neat and logical manner. The write up adequately provides what functionality the work is related to. The project changes to the code have been described in paragraphs which could have been better if they could have updated with code snippets and screen shots of the tasks at hand.
+noProblem Wiki has been well written, with enough clarity and description
+noProblem It is clear what the project does and why it does it.
+noProblem The writeup is clear. It is easy to understand what the project does. It would be better if you can put in more code details and major pieces that do the important logic.
+noProblem The writeup is pretty clear.
+noProblem The test plan section is present, and it is covering all the scenarios.
+noProblem They seem to have included a testing plan have mentioned it in their report. They seem to have considered edge cases and other possibilities.
+noProblem Not much has been explained about the test plan. The authors have, however, explained how they will be going about the testing in general. An overview is provided which is clear to understand.
+noProblem More details are expected in the Test Plan like edge cases, normal cases.
+noProblem The writeup explains everything regarding why and how the steps were carried out.
+noProblem They have explained how they have implemented each task by adding/editing files.
+noProblem Yes, the writeup explains what the authors did.
+noProblem The team has created a new spec file to test all the issues of the PR.
+noProblem Yes, the cases discussed have been converted into appropriate tests.
+noProblem Adequate testing was performed using RSpec tests for both the issues.
+noProblem They have converted the test cases mentioned in the test plan into automated tests. The tests have been implemented as mentioned in the write-up.
+noProblem The team has made minimal changes in the code to fix the issues. No new class, function or variable has been added.
+noProblem All tests pass.
+noProblem No automated tests. But the fix seems to be working fine as per the test plan provided.
+noProblem No issues found.
+noProblem The newly added code adheres to ruby programming standards.
+noProblem The names used seem appropriate to their intended functionality.
+noProblem The variables, methods and class names are named appropriately. The variables used in the program suggest the functionality.
+noProblem There are no additions in terms of methods or any new implementation. There are minuscule changes done so it still follows the existing standard.
+noProblem There were not many big changes. All the changes are crisp and to the point.
+noProblem The team has done well not to over complicate the issues and have resolved them with relatively few additions.
+noProblem The code follows Ruby style Guidelines and is DRY.
+noProblem The code resolves all the issues as per the problem statement and the features work correctly.
+noProblem It works as expected.
+noProblem Seems to be working.
+noProblem The features for the issues fixed work as intended.
+noProblem The team has explained the problem statement as well as the approach they has chosen with lot of details. It makes it very easy for end user to understand details of the project.
+noProblem Write up is clearly understandable. Systematic approach taken to fix the issue.
+noProblem Write up is quite impressive. I was able to understand the project through write up.
+noProblem The write-up is good and clearly mentions the issues to be corrected.
+noProblem The problem is explained clearly and the implementation plan is also described elaborately. The explanation helps in understanding the project very well.
+noProblem The team has included test plan as well as the screenshot of the manual testing.
+noProblem Write up has test plan with clear steps and screenshots.
+noProblem They have covered few edge cases. Just a suggestion to include result before and after fixing the issue. May be juxtapose it.
+noProblem Yes, the project deals with an issue related to names,Â such as not allowing whitespaces , etc. The test verify that the issues are now solved.
+noProblem The test plan looks good. It includes both manual testing and automated testing by writing Rspec tests.
+noProblem Yes the team has done great job in the write up It is properly indexed and addresses details about each issue and its solution.
+noProblem Write up explains about the problem and how it needs to be fixed which seemed logical
+noProblem They standardized the team name generation and fixed the username without space. For design patterns I think they didn't used it may be it wasn't needed
+noProblem No write-up available rn
+noProblem The write-up clearly mentions the issues to be fixed and the code changed to fix each issue.
+noProblem The write-up explainsÂ the approach used and the code used for implementation very clearly. The test plan is also defined extensively. Screenshots help in understanding the implementation more. They did not use any design patterns.
+noProblem All test cases seem to be passed.
+noProblem Ruby coding practice seem to be fine. Class and variable names are apt.
+noProblem method names and variables are used aptly which helps in easy understanding
+noProblem The newly added variable, methods, class names are written properly. The names indicates the functionality implemented by respective names.
+noProblem Function and variable names seemed to be appropriate enough. The names suggested the functionality. No suggestion is needed.
+noProblem The naming conventions are properly followed. In case of Ruby, snake case has been properly used and in case of JavaScript code, camel case is used.
+noProblem Methods are not too long and each function is performed in the appropriate method
+noProblem 1. Functions and logic are written properly without long functions and dead or messy code. 2. No . Team has provide good modularization. No need to extract code further into more functions. 3. Code was understandable and easy to understand. 4. Code does follow ruby style guidelines. 5. Code and packages follow DRY principle.
+noProblem Code seemed to follow the ruby style guide
+noProblem none of the functions are too long Â could find changes where DRY principle was violated Â the code follows ruby convention and guidelines Â comments were included wherever necessary. the code is easy to follow. Â Good Job!
+noProblem The code is well written. The function length is also well within the required bounds. Comments adequately convey the info about the functionality that is implemented.
+noProblem They have not provided a link for the deployed so cannot test anything but they have provided a video and according to that everything seems to be working
+noProblem Not deployed but the video provided which includes the demonstration of the fix.
+noProblem The manual testing done in the screencast seems fine. The features work correctly
+noProblem Everything is explained in detail
+noProblem Issues explained properly and change as well. The modifications are demonstrated using screenshots which helps in better understanding.
+noProblem The test plan seems to be complete enough. No additional pre-conditions and edge cases are required.
+noProblem Issue 1 under solutions tab is actually the third point discussed in the Fixes Required.It could be discussed as Issue 3Â rather Issue 1 for better clarity. Only the solution for one issue is discussed. (?) The discussed solution is again well-defined with adequate screenshots.
+noProblem One test case visible.
+noProblem yes the functionality still holds good.
+noProblem Decreased to 12%.
+noProblem The test coverage on the contrary decreased
+noProblem The names are intuitive.
+noProblem The variable names look fine, methods names are also meaningful.
+noProblem 1. Some Functions are of huge length and adequately structured with respect to the purpose in question, but I am assuming the complexity of the question requires so.Â 2. All code has been suitably well put into the methods with their intended function and work cutout for them.Â 3. No, the comments have been well placed and but are veryÂ strangeÂ and vague at some places suggesting an amateur approach.
+noProblem Not really clear. Lines have been changed. No specific functions. But it shows good coding skills.
+noProblem The project's purpose is to refactor the code. Hence the code has been separated into different files for better understanding.
+noProblem I can see a file changed and the code in it looks to follow the concepts which needs to be followed
+noProblem The code follows Ruby standards and DRY principle.
+noProblem The code seemedÂ ok to me.
+noProblem The functionality does work. Some errors are visible as shown by Git.
+noProblem Cant really know what exactly is completed.
+noProblem Some of the common edge cases work as per expected
+noProblem They were not required to write automated tests as far as I know
+noProblem The newly added code does adhere common HTML standards. The only other change is to the db schema.
+noProblem Variable, methods and class names seems as per coding standards and variableÂ names are making it easy to understand the logic code. Hence names used are reasonable.
+noProblem The only change this team had to do was add color codes for the various types of links that come up while reviewing. This would be hard to mess up.Â And the team has not messed it up. Good Job guys.
+noProblem The added code is easy to understand and not complex.
+noProblem The code added is extremely easy to read, follow and understand.
+noProblem repeated style tags
+noProblem Looks good.
+noProblem The code follows Ruby guidelines. However, since the project involved just adding colour to certain links there was no point of the code being DRY. In fact, reviewing this project doesn't make sense since the project was literally just changing 3 lines of code, NOT THAT IT IS THE FAULT OF THE TEAM.
+noProblem The code is complete and does what it was intended to do.
+noProblem The implemented solutions work in the deployment
+noProblem There are just the changes in the button colours required which are working as expected.
+noProblem Yes. Team has resolve the issue very well and also taken care of edge cases.
+noProblem The changes in this project were simple enough to work for all edge cases.
+noProblem Looks great.
+noProblem Yes. The team clearly indicates in the wiki, what this project is related to and how they went about to complete the given task at hand. I'm not sure about this, but maybe the heading for the wiki is incorrect. This project is listed as E1828 in the list of OSS projects. But the team have named it as E1785. This may be a mistake on the team's part, if so, I would suggest them to correct it.
+noProblem The document is well described with details on Expertiza, its purpose. It also details the files related to their assignment.
+noProblem Explained very well.
+noProblem There is no scope of a test plan with changes made to the view.
+noProblem There is no explicit test plan mentioned in the wiki. But for this project I don't believe one was needed.
+noProblem The writeup doesn't has a test plan, but the work they have done is on UI i.e. colouring the links. So there won't be any edge cases as such to fail in this project.
+noProblem They have explainedÂ the changes they have done and why they have done them.
+noProblem The project was to change the colour of certain links to depict certain statuses. Since the complexity of the project was not high there was no scope to use any design principles or patterns.
+noProblem The write up explains each and every thing which they implemented
+noProblem The code change seems simple enough that does not require any design principle or patterns. Whatever the code changes are, explained properly and coding principles with required output.
+noProblem The write up does intend to capture the changes that have been made, there isn't much for them to explain and thus the writeup seems short. There isn't much scope for the team to have used design patterns in a project which involved making cosmetic changes to the views.
+noProblem Looks good. Explains what work is done and what is the corresponding output
+noProblem the document contains the whole information including the test plans and the the expertiza environment setup. It is neatly documented as well which makes it more readable
+noProblem Again, since their entire project is on RSpec testing, so this aspect has been well taken care of.
+noProblem As mentioned by the team, more code needs to be added for 90% coverage.
+noProblem The tests are included
+noProblem The variable names seems good
+noProblem It follows the DRY principle
+noProblem Difficult to understand what are the changes .
+noProblem Code written follows the Ruby Style Guide.
+noProblem Very well written, clean and concise.
+noProblem It seems to work well.
+noProblem Manually Tested the Test Code and 97% covered(validated via Coverage.index file)
+noProblem All the tests pass successfully.
+noProblem Yes. I can understand the intention of the test. Nicely done
+noProblem Feel a pretty good job has been done.
+noProblem Since, their entire problem relies on the RSpec testing framework itself, they have implemented it in a good and a concise manner.
+noProblem Yes, testing is thorough
+noProblem The writeup does a good job in explaining how the authors did the work they did.
+noProblem Basic test missing.
+noProblem Seems like some tests have failed.
+noProblem Yes, converted Test Plan into automated tests.
+noProblem The authors have converted all the cases discussed inÂ Test PlanÂ into automated tests
+noProblem The names of variables and methods are aptly chosen and clearly understandable.
+noProblem All the method names/variable names and class names are intuitive and according to Ruby standards.
+noProblem No long functions No separate methods required. Follows Ruby Style Guide.
+noProblem The code does followÂ "good Ruby and Rails coding practices". No bad naming. Every file is properly named based on their functionalities. I cannot find issues with coding. One method handles only one task. I could not find any bugs in the system and this works exactly how it is supposed to work.
+noProblem The code is concise with 3 functions in the controller. Sufficient comments are used to explain the logic. The code follows the DRY principle, as there is no repetition seen in the code.
+noProblem The code follows Ruby Style Guise and follows DRY principle. None of the functions is too long.
+noProblem none of the functions are too long could find changes where DRY principle was violated the code follows ruby convention and guidelines comments were included wherever necessary. the code is easy to follow. Good Job!
+noProblem Yes, works properly.
+noProblem Test case implementation is not done.
+noProblem No bugs found. Works as intended.Â The System works without any glitches.
+noProblem The features perfectly work as intended.
+noProblem Explained clearly in the wiki!
+noProblem Explains well. Consists of all sub topics.
+noProblem The wiki has been written in a very clean and readable way. It is very legible and I could understand what the project does and how the project does what it does.
+noProblem The writeup is very nicely written. By reading the background section, anyone can understand the functionality the project is related to.
+noProblem The wiki is well written and contains all required information regarding the project. The screenshots included in the wiki could be more specific with the details of what would the student view and default view. Apart from this , the team did a great work.
+noProblem Yes, considers all test cases.
+noProblem The test plan looks complete.
+noProblem The team did a great work in creating automated scripts for the cases related to the scenario. The scripts are also included in the automated test plan.
+noProblem Write up is explained in detail.
+noProblem Explained well.
+noProblem Yes, explains correctly.
+noProblem Yes, the team has clearly explained, the code which is written to avoid the confusion due to the presence of two "Assignment " tabs in the Instructor view. Appropriate comments are provided to understand the logic behind the methods.
+noProblem Nicely written write-up explaining details about various issues, fixes, and tests.
+noProblem seems like test cases cover the edge cases.
+noProblem Nicely written code
+noProblem Everything seems to be working fine for me
+noProblem Yes, the writeup is pretty clear.
+noProblem Yes lot of new tests added and the addition of the tests has 92% code coverage. Great job
+noProblem Pretty good at this part, they list almost every testing case in the wiki, talking about what condition it is and give the code.
+noProblem All of the codes seems "dry" enough, have some "each" statement to prevent duplicate codes.
+noProblem They did all of them.
+noProblem All the test case works.
+noProblem The writeup clearly explains what the team has implemented. It is very clear and can easily be understood. test case for each and every step is clearly explained.
+noProblem string passed in "it" clearly explains what the test case is going to do. as it is a unit test, there are not much variable that are named. already assignd variables are used.
+noProblem none of the functions/cases implemented are too long. they are short which are easy to figure out what is actually being implemented. The code is easy to understanf so there is not much need of comments but some should be added
+noProblem Excellent write up. Includes all important details. It is one of the most intuitive write up so far I have reviewed.
+noProblem The overall structure of the code looks good and all the coding standards have been followed.
+noProblem Most code changes were on UI, and written perfectly. No commits after first deadline, so same as first review.
+noProblem I think their code is well written.
+noProblem No new code was committed during the second round. This could be due to the fact that the team finished their code at the end of the first round itself.
+noProblem No new commits.
+noProblem No, but all the functionalities are working fine from 1st review itself.
+noProblem There are no new commits.
+noProblem In the first round the team had only created the two Web IDLÂ files namely OffScreenCanvas.webidl and OffScreenCanvasRenderingContext2D.webidl; which are the interface files which define the implementation in the corresponding files offscreencanvas.rs and offscreenrenderingcontext2d.rs. In this round the team has implemented the functionalities described in the two Web IDL files in offscreencanvas.rs and offscreenrenderingcontext2d.rs. The offscreencanvas.rs interacts with the javascript and hence has the constructor with attributes height and width; a method getContext() to return the reference to OffscreenCanvasRenderingContext2d; and a reflector object for garbage collection. The offscreenrenderingcontext2d.rs file does not interact directly with Javascript and does not have a constructor or reflector object. It has the code to build the offscreencanvas object.Â On inspection, the variable and method names used in the code are intuitive. But the main issue is that the name of the webid
+noProblem No new commits made during the second round, as the functionality seems completed in the first round itself.
+noProblem There is no new commits during the 2nd round.
+noProblem The code seems to be good. It follows the principle of good design. Even though I do not know RUST, the use of variable names was very intuitive.
+noProblem The code doesn't make sense to me, someone who isn't familiar with this project, but it does seem to be formatted well.
+noProblem There are only minor modifications and they are well written. I don't think there is any other way it could be done.
+noProblem The code changes are majorly on html files. Capybara could have been used to test the functionalities The code coverage has increased overall.
+noProblem There is no new test and the coverage did not increase.
+noProblem Yes, there is
+noProblem Tests have been thoroughly and very well performed. Also, well documented.
+noProblem The code seems to be written well. The Ruby style guide is followed.
+noProblem Team added elaborate Test plans and implementation for their test cases.
+noProblem The team provides some test cases, but it seems the tests were all done themselves and they didn't write codes for it and make it automatic. The test shows the feature work properly.
+noProblem Some commits were made to rectify old errors and get an approved pull request
+noProblem There wasn't any link provided to check if the UI was working fine. But there was a video showing the projectÂ successfully running. And also the tests did seem to cover almost all the scenarios.
+noProblem Everything works like expected.
+noProblem Yes it works as intended. From the video, it seems everything is working fine.
+noProblem Yes, new code has been committed in the 2nd round. The team has essentially implemented the offscreencanvas.rs and offscreenrenderingcontext2d.rs. offscreencanvas.rs is respondible for implementing the OffscreenCanvas.webidl. This interacts directly with javascript and when a new instance of offscreencanvas is created, it calls the constructor with arguments height and width which in turn calls the new method defined in this file. It also contains the reflector object that tells the Javascript garbage collector to ignore the canvas object while clearing memory. Additionally, it has the implementation of the getContext() method that returns a weak reference to OffscreenCanvasRenderingContext2d, which is responsible for doing background rendering task. offscreenrenderingcontext2d.rs has the implementation of OffscreenCanvasRenderingContext2D. It does not interact directly with JavaScript, so it does not have the Constructor or reflector. The functionality to build an offscreencanvas object ha
+noProblem Yes there new commits in round 2.
+noProblem The writeup has been pretty well written by the team. Introduction to the problem statement, the implementation details, and the test plans have been stated.
+noProblem The writeup is accurate and sufficient, the team gives clear explanations for the whole project and the process to realize it. For the point that is not easy to understand, they provided some examples and use mathematics method to support the explantation, which makes the read easily.
+noProblem Several new commits were added during the second round.
+noProblem The writeup is elaborate, well written, with proper description of the test cases with screenshots and steps for each issue.
+noProblem Overall, I think the write up is good and clear.
+noProblem Well documented and explained with good amount of screenshots. Also the video length has been reduced to only whatever needs to be shown, which is great.
+noProblem The authors have improved the writeup based on the suggestions from first review.Â It is more precise and self explanatory. The background is lot clear after the first review.
+noProblem The team has made a great improvement with respect to the previous submission. The code is brief and easy to understand.
+noProblem I do feel the code can be deployed to the production server once a few test cases have been implemented by the team.
+noProblem Test cases are yet to be added
+noProblem The changes can be deployed to production server.
+noProblem Yes, it works as intended and code follows the ruby guidelines, the documentation is well explanatory.
+noProblem I think this code is ready to be deployed onto the server.
+noProblem The team have done a great job and passed all their tests.
+noProblem The team has suggested 2 methods to test. The first and the recommended method is using the existing automated tests for OffScreenCanvas feature. A new offscreen-canvas directory was added to tests and a new .ini file enables the new preference. The second approach is writing own test cases and a sample HTML file can be used to test if the OffscreenCanvas is rendered.
+noProblem Travis CI has passed.
+noProblem Every thing has passed, there is no conflict or build fail.
+noProblem No test cases as this wasn't a testing project.
+noProblem Yes, the build pass in Travis CI.
+noProblem The build passed with no conflicts in Travis CI.
+noProblem The build passes
+noProblem In the test plan section and on Git also I found no test cases written. There is testing done, however it is not what was desired.
+noProblem The code was well written even in the first round.
+noProblem The present test cases appear to be written fine.
+noProblem No, the authors didn't improve the code.
+noProblem To test the system operation the project has to be built and run. The Sample HTML file was used to render a Test Canvas as given in the Wiki
+noProblem When tested the project does what was desired to be done.
+noProblem The authors made a solid attempt at improving the writeup. However, there are still some issues. DOM was left undefined and the code was separated from the descriptions.
+noProblem Write up is good,Â with code flow diagram and test plan (pull request).
+noProblem No new code was committed during the 2nd round of resubmission.
+noProblem The Wiki is pretty much strong with plenty of info.
+noProblem Yes since it was a unit test assignment, tests have been added and overall coverage has increased
+noProblem Coverage went up by 8.4%, according to coveralls.
+noProblem The write-up is lucid and has now incorporated the changes that were made in the round 2. It starts off by introducing Servo, Rust, OffScreenCanvas, web worker, Web IDL. The authors then describe the code flow using a flow chart which was really appealing. I especially liked the Under the hood section, which elucidated the files (OffscreenCanvas.webidl, OffscreenCanvasRenderingContext2D.webidl, offscreencanvas.rs and offscreenrenderingcontext2d.rs) that they modified/created in this project and their functionalities concisely. The write up then includes the code from the above four files and finally ends with the test plan with 2 approaches, links to pull request and references.
+noProblem The write-up is good. I liked the use of the flow-chart to explain the flow of their code and explain the functionality. I think that this was the first write-up that used a flowchart.
+noProblem They added all the test cases! There is so much coverage now!
+noProblem Overall coverage was increased by 8+ percentage.
+noProblem The writeup is the best part about the project. It describes clearly what and how the work is done. One can clearly understand their working strategy from the writeup.
+noProblem The tests cover all the scenarios. Given that the problem statement is pretty open-ended, the changes fulfil the purpose.
+noProblem Yes, It works .
+noProblem I think it covers all of the scenarios, but don't quote me. I don't have a great understanding of review response map.
+noProblem Since it is a unit test project with well-written tests, I don't see any issues why it can't be deployed to production
+noProblem the test examples they showed are good.
+noProblem The build is passing successfully
+noProblem Yes, I feel the code is written in a good format. I checked the changes made by the authors and didn't find any bad naming or anything else.
+noProblem The code was well-written in the first round itself. The method names, variabble names and class names are intuitive and suggestive of the functionality.
+noProblem The code is well written. No issues with naming conventions/coding style.
+noProblem Impressed by the coding and the way the solution was implemented. They implemented a complex feature in simple lines of code. Coding standard has been followed, naming conventions are followed and code is formatted.
+noProblem The code is written really well. The professor frequently advised the team to improve the naming conventions as seen from the comments in the Pull Request. Suggestions: I still feel that the functionÂ review_reminder_emailÂ is a bit longer.
+noProblem yes new code was committed during the second round
+noProblem There are 2 commits
+noProblem Two commits were done during the 2nd round.
+noProblem 2 new commits - to add additional features.
+noProblem No new commits as fix was delivered in first round.
+noProblem No commits were found. The last commit was 15 days back.Â Suggestion: I feel that there should have been some commits as the pull request shows merge issues. The Travis CI build fails and the code climate is also not able to analyse the code. There should have been commits related to resolving these things.
+noProblem There is code committed during 2nd round.
+noProblem They have added the test cases with context as "when participant is added to the assignment using CSV" and the test case covers the required functionality that was intended to beÂ implemented
+noProblem Team has added tests for assignment_participant model which they have changed. As the requirement was just testing one component, this is sufficient, however testing the controller would have been a more through Integration test.
+noProblem yes, team has added the test cases and they cover the portion tp check whether the email has been sent to or not.
+noProblem The team has added test cases. The test coverage has increased.
+noProblem Yes everything is working as intended
+noProblem Yes, this does work properly
+noProblem The system operation works well as intended.
+noProblem Yes, it looks fine to me.
+noProblem The functionality works fine. Good job team! No suggestions.
+noProblem The write up is well documented and covers all the needed information covering problem statement , a detailed explanation of how the functionality is implemented with what changes have been made to the different files and test case that they have added.
+noProblem The code is up to the mark and has maintained god coding practice
+noProblem The write-up is clear , concise and explains the work done properly. Some screen shots would have been handy though
+noProblem The code is very well written. The code style is very succinct and very careful. There's no bad name, no long functions, nor any DRY problems. I have not done the first round review. But for this time it's very well-written. Good alignment.
+noProblem code was well written the first time
+noProblem The writeup was written very nicely in the first round itself.
+noProblem Very detailed. Great job.
+noProblem The code has been writtenÂ well and properly modularized. Since this is a testing project, all the RSpecÂ tests are written properly.
+noProblem Yes , I think that the code can be deployed
+noProblem Yes, it works perfectly
+noProblem The test plan is added and Rspec test has been added.Overall testing seems good,
+noProblem No there were no conflicts and do not need to be resolved.
+noProblem Yes, there are new commits.
+noProblem Yes, the team has committedÂ changes during the second round. The changes involved correcting the indentation issue.
+noProblem I couldn't test manually, but the videos show proper operation.
+noProblem As per their screencast(shared on the gdriveÂ link), the feature seems to be working locally. There is no Heroku deployment or a link to the VCL present.
+noProblem yes they have included test cases and the the coverage has increased by +2.7% , it basically covers 39.427% of the code
+noProblem The code is almost completed. Only a few final touches will make it ready to be deployed onto the production server. Maybe the future team can also work on it to achieve some more enhanced features.
+noProblem This is not an Expertiza project.
+noProblem The UI and system operation works as intended. The video provided clearly shows the issues that the team has handled.
+noProblem According to their video, their code works well.
+noProblem The write up has seen significant improvement. Flow diagram has been made and screen casts have been added to show the flow. Screen casts have been added for both bugs and functionality. Very good job
+noProblem Extremely well written Wiki Page, thorough and to the point with enough technical content and relevant screenshots pertaining to the before and after scenarios of the problem statements.Â Moreover, its a considerable improvement from the last submission where in they had nothing of the sort.
+noProblem The write-up is comprehensive and clearly mentions the filenames where the changes have been made. Moreover the team has explained the logic behind the code in the video provided which is really helpful. The team has done a good job with respect to that. They have added an flowchart image explaining the logic behind checkbox. This adds up to the readability of the project
+noProblem The writeup is detailed and the authors have done a nice job. It covers issue, their solution, explanation of the solution and test plan.
+noProblem Yes, there are only minor modifications and they are well justified.
+noProblem 100% coverage by the test cases.
+noProblem Yes, the coverage is 100%.
+noProblem Yes, as the project purely involves adding unit tests, the team has added all unit tests for participant.rbÂ model. The tests haveÂ increased the overall coverage by 2.7%.
+noProblem The code coverage was 100% in the first round.
+noProblem Yes the test covers all the intended scenarios with the edge cases and has a build pass of 100%
+noProblem they did unit tests
+noProblem More test cases can be included for testing "sad paths".
+noProblem Yes, they cover all the scenarios.
+noProblem Yes, this testing project covers 100% of testing coverage.
+noProblem The code coverage is 100%.Â Every test case passes after a manual check.
+noProblem The write up is quite well written and is properly sequentially presented which increase the readibility
+noProblem The documentation is well written.
+noProblem The writeup covers all the relevant parts of the project. The primary objective of the project is defined clearly. A comprehensive description is provided for technical steps needed to set up the environment and the functionality which is related to the test suite. Furthermore, the team provides a detailed explanation of each test case along with the corresponding code.
+noProblem Write-up is goodÂ and understandable.
+noProblem Yes as the the test case has a build pass of 100% and also increases the test coverage , it should be merged
+noProblem I think the code is totally ready to be put into production. It's written in a very professional fashion.
+noProblem they did unit tests and they have passing coverage
+noProblem I feel that the code is ready to be deployed as it's path coverage is 100% and it satisfies all requirements.
+noProblem Can be deployed once travis passes.
+noProblem Yes, they all passed the Travis CI. No conflict that's remained being not resolved.
+noProblem The code seemed to be well written in the first round. But I dont see changes done in round 2. The github link provided shows last commit for Oct 21. Though I see that there are change made in the wiki which were required and are done well.
+noProblem Unit tests achieved 100% line coverage and the use of Rspec's descriptions and context was great.
+noProblem Did not notice anything repeated in the spec file. There is no bad naming
+noProblem Write up is good enough to explain the code changes with their functionalities.
+noProblem No new commits were added, but I don't think they should be penalized for this, as their code was already perfect the first time.
+noProblem There are no new commits. Maybe this final version is pretty well-written so they didn't update.
+noProblem Very nicely tested project.
+noProblem Coverage was already at 100%.
+noProblem Coverage increased by 9.7%.
+noProblem Coverage is the same as before.
+noProblem The coverage is 100%.
+noProblem Video depicts tests running and passing.
+noProblem Yes, they cover all theÂ scenarios.
+noProblem It works fine with
+noProblem Yes it covers all he scenarios.
+noProblem Very nicely written Wiki, all test cases have been nicely described and the rationale behind the test is also well written.
+noProblem The writeup is very detailed and even described a bug they found.
+noProblem Well written document. Good job!
+noProblem Team has explained everything clearly
+noProblem Writeup is good.
+noProblem Yes, I think it should be merged, mainly improving the coverage by ~10%.
+noProblem Let's get some unit tests in this code. 100% LoC coverage is a great place to start.
+noProblem The Travis CI build passed.
+noProblem Seems at par with the coding standards
+noProblem Did not find problems in the code in the first round. Follows ruby style guide, commented and good naming. Very well written.
+noProblem No new commits have been made in the 2nd round
+noProblem Last commit seems to be 11 days ago
+noProblem No new commits have been made. All changes are in the documentation only.
+noProblem I don't see any new commits for round 2, mostly nothing was needed
+noProblem No new code was committed during the second round.
+noProblem Unfortunately, there was no new commit added. The latest commit is 10 days ago
+noProblem No new test were added but earlier tests are working.
+noProblem The code was well written, DRY was not violated.
+noProblem The code seems to be dry, and I had no issues with it in the 1st round.
+noProblem It looks as good as round 1.
+noProblem Naming looks good, they had already added comment to the code in the first review.
+noProblem Don't see any DRY issues. Well Written Test code
+noProblem The code is well written.Â No suggestions.
+noProblem The team has added test cases: 1. To check that if there is no rejoinder for the review then it redirects to new author feedback page. 2. To check that the other teammate is able to edit. 3. To check if the page is redirecting back to review. 4. To check if the rejoinder by a participant of a team is saved properly.Â The overall coverage decreased from 48% to 47.601%. It decreased by 0.04%
+noProblem No there had been no bad names or wrong conventions used even in round 1. so no change there. TheÂ team has made few modifications to beautify the code by using ternary conditionsÂ which did make the code elegant. No new comments added.
+noProblem Commits for Code Climate changes were pushed in.
+noProblem The team added new commits in the second round as well to improve their code style, improve codeclimate issues and changes other reviewer's suggested. Very few teams have done this. Great work.
+noProblem Several commits were made to decrease the code climate warnings.
+noProblem Yes. They are updating code to fix code climate issues.
+noProblem Yes, there areÂ new codes committed during the 2nd round.
+noProblem The number of commits since the 1st round is impressive.Â Significant improvements have been done pertaining to naming, indentation and overall Code Climate issues.
+noProblem No new commits with respect to code or functionality. Just few indentations,Â comment changes and code beautifications done
+noProblem The system operation from UI works as expected by the project. I was able to verify that the rejoinder is given by the team instead of team member. The rejoinder is also made easily available to the user, by providing easy navigation options to give feedback to reviewers, hence making the UI more user friendly. The Author feedback section contains the team's collective feedback to reviewers of particular assignments. Most of the task is to refactor code so that it complies with the new requirement of team rejoinders, and the features work as expected.
+noProblem The projects works as intended. Some of the issues in the problem statement covers refactoring which has been properly handled by the team.
+noProblem Test cases were added. Overall increase in the coverage range observed.
+noProblem Yes, the team added relevant test cases which increased the overall coverage.
+noProblem No unit tests were added during the resubmission, but they had an initially high coverage.
+noProblem They achieve 100% during first round, so I don't think there are any new test need to be added.
+noProblem Yes, they coverage is 100%.
+noProblem Yes the project was about testing and coverage has increased.
+noProblem Nicely written wiki.
+noProblem The coverall showed that the Overall coverage increased (+3.2%) toÂ 39.999% The coverage of the participant.rb file is 100%. So great job team! No suggestions.
+noProblem The write up is simple and understandable. It starts off by describing about Expertiza, motivation behind the project, the tasks to do, list of classes that are modified and impacted by the change. I like how the authors have screenshots of both the existing code that is removed and the new code that is added in the pull request, which juxtaposes them and highlights the tasks in the problem statement and goals of the project. The write up then ends with the test plan which lists the test cases handled.
+noProblem The code coverage was 100% in theÂ 1st round.
+noProblem YEs the project was a test project and the team has managed to achieve 100% coverage of the model. There was no increase in coverage from Round 1 to Round 2
+noProblem The project works as intended. Test cases are showing a positive impact on the results.
+noProblem Yes, the tests cover all the scenarios one should check for. Great work !!!
+noProblem Everything is good here!
+noProblem Edge cases are tested, and all scenarios for each method are tested.
+noProblem Yes a lot of cases concerning a participant has been added.
+noProblem yes, 100% coverage has been achieved as shown in the video.
+noProblem The tests specified in the participant.rb file run perfectly well . The same has been demonstrated in the video mentioned above. No suggestions.
+noProblem The code coverage is 100%. Every test case passes after a manual check.
+noProblem The writeup was significantly well written. Almost all the changes were covered.
+noProblem The team has written their wiki page in a very detailed manner. They even added the video links which were missing in the first round as suggested. Thank you and good job :)
+noProblem Easily one of the most clearly documented projects I have reviewed in this class so far. I liked their organization of the Test Plan within the write-up.
+noProblem The wiki page provides clear details about the work, and very easy to understand. Just like round 1.
+noProblem It is crisp and to the point, there are no clarity issues either.
+noProblem Well explained, all the test cases have been explained and are self explanatory as well.
+noProblem Well Written
+noProblem The writeup is really well written and has covered all the desired aspects along with the test plan. No suggestions.
+noProblem TheÂ writeup clearly defines the primary objective of the project and justifies the reasoning behind introduction of additional helper constructs like participant factory. The authors complement the descriptions of each test case with associated block of code and elaborate on the details of their inner workings.
+noProblem The write-up and screen cast were both very explanatory. It included detailed code, the need for the test of partipant.rb and the use of the model. There was no change required from the initial write up.
+noProblem The code is well organized and written & ready to be merged into the production server.
+noProblem The tests are good and it can be merged to the main line.
+noProblem Commits were made in second round
+noProblem The code has been written as per the coding standard. The code written by the team adheres to dry principle.
+noProblem the code was well written, following the principles.
+noProblem Yes, code is well written
+noProblem The code is well written and follows all the DRY problems.Â The team has changed the files based on previous reviews and to make it more DRY comments before the methods that they created gave a better understanding what each code does. // function for showing warning when number of slots is set as zero Â Changing the names that suited the functionality more, is appreciated.
+noProblem There does not seem any issues with the code. The team has properly used the naming convention and has provided comments wherever necessary
+noProblem Few new commits are made
+noProblem There has been 2 commits made in second round. One for adding comments and another one for fixingÂ Issue #926 the sorting of topics by topic number in assignments.
+noProblem 3 New commits
+noProblem ProperlyÂ done in round 2 also
+noProblem The team has done few commits. One was on few sort fixes, while they other was on refactoring.
+noProblem The team has added some new commits which are about the added comments. The team has picked up the suggestion from the previous review to add comments for better readability, which is commendable.
+noProblem A commit was done in second round addressing issues from reviews.
+noProblem Yes the features work as described in the problem statement. The team has done good job and has fixed all the below issues: Issue #971 Change create topic UI into AJAX. Issue #9
+noProblem The code works as required.
+noProblem The new features work as expected.
+noProblem The working is perfect, everything works as intended. The team has explained this in a brief manner in their youtube video.
+noProblem System works as expected and this is evidenced by tests and videos.
+noProblem The write-up is informative and provides all necessary details of the changes made.
+noProblem The write up is impressive and very detailed. It has been documented well which helps to understand about the project and the code implementation. It also provides detailed test plan which makes it easier for end user to do UI testing.
+noProblem The writeup is well organized and well documented.
+noProblem Writeup is very detailed and well written. It is supplemented by enough code pieces and reasoning and good amount of pictures and videos to explain what the teamÂ has done in detail.
+noProblem Yes, the code can be deployed to production.
+noProblem The code is well written, tested and documented and hence I think it should be ready to be deployed.
+noProblem Yes the Travis CI build is passing successfully.
+noProblem No conflicts and Build Passes
+noProblem Yes no conflicts at all which needs to be resolved
+noProblem Yes, the Travis CI has passed.
+noProblem The build has passed in Travis CI and no conflicts have occured.
+noProblem The code follows Ruby style guide.
+noProblem The code is very well written and follows good coding practice
+noProblem Project was on implementing test cases. The test cases are well written and the code coverage has increased.
+noProblem The code is both succinct and very carefully. i have not done the code check in the first round. but for this time, there's no bad names, functions are standardly-named, good alignment and commenting.
+noProblem Code makes good use of rspec's describe and context options, and manages to achieve ~95% code coverage.
+noProblem Yes code was committed to follow clean code practices based on first review.
+noProblem Code was cleaned up 5 days ago.
+noProblem Yes, new code was committed in the 2nd round.
+noProblem Test coverage remains the same at 94%. Hence, my suggestion/opinion is same as the previous review.
+noProblem Yes they have added test case and it has increased the coverage by 3% and has increased the coverage to 39.721%
+noProblem Project was writing unit test cases and the newly written test cases has increased the test cases.
+noProblem Test coverage for assignment_participant model increased to 94 percent.
+noProblem Coverage increased by 3%.
+noProblem Yes, the team has added test cases and the team has covered every functionality.
+noProblem I'm afraid no test cases were added in round 2.
+noProblem Yes the test case covers all the required test cases along with the edge cases .
+noProblem Project was on writing test cases and the newly written test cases has increased the coverage.
+noProblem Since it's unit test, it seems there's hardly a way to veirifyÂ with UI
+noProblem All the test cases pass. Majority of test scenarios described in document is covered and automated
+noProblem Video demonstrates working and passing tests.
+noProblem The code coverage is ~94% which passes the required threshold.
+noProblem The writeup seems to be well written. It is concise and to the point.
+noProblem The write up is very well documented as it explains the test plans and also what changes have been made along with the reference to the files which have been modified
+noProblem Very clearly writeup
+noProblem The writeup is comprehensive and fully covers given functionality. There were no significant issues that needed to be fixed from the first round.
+noProblem The writeup is complete and well organized. And it also mentions the corresponding change in origin code.
+noProblem Yes as the testÂ case increase the test coverage and the build pass is 100% , thus the code is ready to be merged
+noProblem Yes, it is a good code.
+noProblem After resolving the issues with Travis tests and adding comments to the code, it is ready to be merged with Master branch. Production deployment in not applicable.
+noProblem Travis Cl build failed
+noProblem Yes, the Travis CI build was passed. The conflicts could be seen resolved.
+noProblem Their code is pretty good, and they solved most of the problems.
+noProblem Overall well written code. Use of factory bot reduces code redundancy in building test cases. The team could have reduced the code redundancy inthe menu method test example.
+noProblem The topic assigned to this team is Unit testing on menu.rb. So, they had to create Rspec tests for the methods in the model file menu.rb in the new file spec/models/menu_spec.rb. The team has precisely tested the functionalities of every method including all relevant scenarios (as contexts) of both the nested class Node and the enclosing class Menu. The names used for mock objects and literals are intuitive and follow the Ruby's convention. There were a few issues regarding incorrect indentation and the verbosity of the spec code in the previous round. The team has rectified those in this round. In my view, giving additional comments for code in rspec is superfluous as the tests are already embedded with information on what it intends to do through the use of 'describe', 'context' and 'it' methods.Â The code is DRY through the use of reusable mock objects like menu, nodes, site controllers, content pages, controller actions, items and roles which span across the entire block wh
+noProblem They do not have these problems in the first round.
+noProblem The code follows the Ruby style guide and makes good use of the Better specs documentation for writing Rspec test. The team has also made an extensive use of the describe and construct contexts which helps to understand the code written.
+noProblem The code is well written. No suggestions.
+noProblem well done! 100% cover.
+noProblem 2 Commit during 2nd round.
+noProblem Yes, this team has been keeping push new commits during the 2nd round.
+noProblem Yes, new commits were added in the second round to fix the code climate issue
+noProblem There was a commit during the 2nd round. This was made after the user codeclimate pointed out a few issues with respect to the indentation and lengthy code.
+noProblem Yes, the code climate issues were resolved.
+noProblem There are some new commits in the 2nd round.
+noProblem No new commits were found. But this was because the project was already done and did not need any changes.Â No suggestions.
+noProblem modify some to make it drier.
+noProblem This team already had full coverage. I am not sure how to answer this question as new tests were not needed.
+noProblem Yes, the team did added test cases, which have been clearly mentioned in the write-up. Although the results image isn't clearly visible, but it is still enough to figure out the team passed 100% of the test cases.
+noProblem Yes they have add some test cases, and the coverage increased.
+noProblem The team's project is unit testing the menu.rb model file. Hence they added Rspec test code in spec/models/menu_spec.rb. The pull request indicates that the overall coverage increased by a significant 5.5%. The report tells cites that 5779 lines have been covered and 13673 lines are relevant.
+noProblem no new added tests but the team had managed to get 100% test coverage in first round.
+noProblem The travis report shows failing case implying no coverage there.
+noProblem They add test cases for the first round and the coverage increases, however, they did not add more in second round.
+noProblem The team did not add or improve any team cases from the first round. The full path coverage of 100% was already achieved in the first stage.
+noProblem Coveralls shows the following : Overall coverage increased (+5.5%) toÂ 42.266% The coverage of menu.rb has increased to 100%. Great job team! No suggestions.
+noProblem 100% coverage
+noProblem As mentioned above, the team did a really good job at this. The writeup talks in detail what all tests did the team implement, and from the pull request, we can make out that the team was pretty consistent with their efforts.
+noProblem Yes, it works as intended
+noProblem The test cases have covered all the scenarios that I can think of including the cases when the objects passed as parameters are nil. For example there are scenarios covering the cases when the objects like controller_action attribute, site_controller variable, content_page, menu items, parent id are nil objects; and also scenarios when URL of controller action is unavailable, when the by_name hash does not contain a given node name and when a menu id is not present in the @selected hash.
+noProblem Yes, everything works. Well done!
+noProblem All scenarios mentioned in the writeup are properly covered.
+noProblem They covered all the scenarios.
+noProblem The code coverage of 100% satisfies the minimum criteria. It works as intended which can be seen in the video. The tests covers all the scenarios for passing them.
+noProblem The tests execute perfectly well and this has been demonstrated by the video. No suggestions.
+noProblem cover all!
+noProblem Fantastic wiki! Extremely informative about your project.
+noProblem There has not been any changes after first round in the writeup. So my opinion remains the same as it was in the previous review.
+noProblem The writeupÂ overall is good, but they did change the problem related to test plan like I mentioned last time.
+noProblem The writeup is complete and comprehensive in that it fully covers the given functionality. It clearly and adequately indicates the working functionality.
+noProblem The writeup is written in a verbose manner. The test plan is also mentioned.Â No suggestions.
+noProblem written up is also a brilliant work!
+noProblem Yes, the code is perfectly fine, and is a great start for the team which would come in the future to follow-up with the work on this.
+noProblem The team has created test cases for unit testing the model file menu.rb. The test cases are meaningful and are getting passed. Once the Capybara error quoted in the 3rd rubric gets fixed, the current code can be merged into the repository. Since the team's project is unit testing and does not concern modification or augmentation of any feature, there is no question of deployment to production server.
+noProblem One check needs to pass to get deployed.
+noProblem Once travis build passes the project could be merged. I have seen specs in the existing code base that are very implementation dependent so this won't be an issue.
+noProblem I believe this code is ready to be merged once the Travis CI passed.
+noProblem The build can be definitely deployed once the Travis CI issue has been fixed. Suggestion- Rectify the Travis CI issue.
+noProblem meaningful test
+noProblem Nice work!
+noProblem All passed.
+noProblem Yes, the build passes Travis CI. No, it did not had any conflicts. There was only one message, which was a warning, but apart from that, it everything seemed perfect.
+noProblem Yes, they have passed the Travis CI.
+noProblem very few conflicts
+noProblem Yes,coding practices seem upto standards
+noProblem The code is well written and well commented and follows ruby style guide.
+noProblem They don't have code problem for the first round.
+noProblem No the new code was not committed during the second round. This could be due to the fact that the team finished their code at the end of the first round itself.
+noProblem Doesn't seem to have new commits in round 2. last commit was on 2nd November
+noProblem The last commits were 12 days earlier, hence no new commits were made during the second round.
+noProblem No new code was committed in the second round.
+noProblem No new code was added, nor was any necessary.
+noProblem Yes, they were made.
+noProblem No new commits. Last commit was on Nov 2nd before the first review.
+noProblem Yes 1 checkin was done on nov 2nd
+noProblem The code was already delivered in the first round. Hence, no commits this round. The author has regularly pushed commits.
+noProblem No new commit during second round.
+noProblem Yes, the team did add test cases to test their changes and their overall test coverage has increased.
+noProblem The code seems to same as before. nothing new has been added.
+noProblem The team has added test cases and they cover all the required functionality. The code coverage has increased by a small amount.
+noProblem Many test cases were added, with overall test coverage increasing for the project.
+noProblem Overall coverage increased (+0.3%) toÂ 37.074% Good work on including test cases. The app works fine after testing. The newly added tests cover the scope of this project very well.
+noProblem Team has added many tests. Coverage has increased from 1 to 38%, which is impressive.
+noProblem The testing has been implemented and looks well implemented.
+noProblem Yes, they add test cases, and the coverage is the same as the first round.
+noProblem Yes everything does seem to work properly.
+noProblem Yes, the project did work as intended. The video demonstration and manual testing were enough to prove this fact.
+noProblem The system works well. All the functionality has been implemented. I ran the project and it worked as intended. The back button issue in UI has been fixed.
+noProblem Yes, it works as intended.
+noProblem yes
+noProblem Yes, as mentioned in the problem statement, the solution is delivered. It works fine.
+noProblem The functionality works and is evidenced by the video.
+noProblem Yes, everything works.
+noProblem The writeup written well. The team could have included snippets of their code instead of screenshots.
+noProblem The write-up was very good, in the sense that it mentioned the high level view of the tasks first, and then dug deeper under the hood. But, it only showed what files they changed, and what it produced as a result. They could have also shown what is that they changed, or provided a link in the wiki. Yes, one can deduce that from the pull request too, but having a link or the content itself on the wiki is a big boon.
+noProblem The writeup is well written and self explanatory.
+noProblem The writeup is great, in first round they did not have a test plan part. But they added it in the second part.
+noProblem No, its not as the coverage is increases by small amount.
+noProblem The build did not pass in Travis CI. There were no conflicts that needed to be resolved.
+noProblem Travis test has failed, I can see it in pull request page. Conflict has not been resolved.
+noProblem New code commit was not made in second round
+noProblem Code looks good. Well formatted and naming conventions are followed.
+noProblem The code was well written and implemented the functionalities needed. It made good use of naming conventions and the team worked on improving the code layout by following the Ruby style guide and DRY principles.
+noProblem All the names are used properly and the team adds some comments after last round.
+noProblem No, no new committed were added during the second round. The last commit was around 13 days back, and no new code has been pushed since then.
+noProblem Some New commits, improves the code a bit
+noProblem Yes, 2 commits were done in the second round.
+noProblem No new commits
+noProblem There were a good number if commits in 2nd round.
+noProblem Commits were done long ago and commits are regular. No new commits as changes were fixed in earlier round. Commit titles are well written and not ambiguous.
+noProblem The team did not make any commits from their first round. They had successfully fixed the issues in the first round stage itself.
+noProblem The team add some comments and test cases during the 2nd round.
+noProblem Yes, the team has indeed added test case and made a test plan for both the issues that they have resolved.
+noProblem 11% Coverage Increased. Good Job!
+noProblem Yes, the team has added adequate test cases.
+noProblem yes the coverage has increased
+noProblem The team did not add any test cases and the coverage remained the same.
+noProblem The team added test cases for test_case.rb and the coverage has increased. which makes the overall coverage increases relatively a large extent.
+noProblem The feature implementation was good. The TA can't edit the rubric of the instructor. But the test cases are very limited.
+noProblem Following the steps, I can see the changes implemented.
+noProblem So far the best write up
+noProblem The team vastly improved on the writeup from the first stage by giving a general overview of the tasks taken up and the list of issues present and resolved during the project.
+noProblem The code seems ready for merge
+noProblem Yes, it is ready.
+noProblem If it works just like in the video then definitely yes.
+noProblem Since, the changes are reflecting, it looks good to be merged.
+noProblem Yes, the code can be deployed on the production server as it passes the needed build of Travis CI. The project would work as required to.
+noProblem Travis-CI Passes
+noProblem Yes, the build request has been passed.
+noProblem I could not find Travis CI
+noProblem Travis tests have passed. There were some initial failures but the team has fixed it. There are no lingering failures.
+noProblem the build passes
+noProblem The code is well commented, I did not see any bad naming conventions or bad coding style
+noProblem I see only one commit on Nov 2nd.Â The project was in good working condition during the first review itself. and they did fix the minor bugs in the commit
+noProblem Travis CI is passed there is no issues with the build
+noProblem UI is working correctlyÂ there are no features broken
+noProblem this code is ready for server
+noProblem The code was already well-written . No changes were suggested in the first round. The team did a great work in following coding best practices.
+noProblem The video explains the new functionality and the functionality is working as expected. Good job!
+noProblem The write-up is well written and organised. Everything looks fine. Great work with the write up!
+noProblem Code has no problem.
+noProblem They did not provide a link for me to test, but their video shows that their code works well.
+noProblem There doesn't seem to be any new code added in the github. But overall has a good history of commits which is documented well through commit messages.
+noProblem The bug fixing does work according to the screenshots provided by the authors. They have provided a step by step screenshot of the issue that they have fixed. The authors haven't hosted their version of the expertiza so it is very difficult to actually check the functionality. They could have hosted expertiza on VCL or they could have put a screen cast of the working functionality to help in reviewing.
+noProblem No new commits were added during the 2nd round.
+noProblem The team did add test cases covering the functionality. The overall coverage increasedÂ by +6.6% to 43.356%.
+noProblem Since, theÂ project was not deployed hence manual testing could not be performed. But, the screencasts show that the system works as intended.
+noProblem Yes, I think the project is ready to be deployed at the production server since all the required functionalities are implemented.
+noProblem The code is well written.Â The variable and method names look clean and concise. The functions are small and well defined
+noProblem The write up clearly captures the functionality that the work is related to.
+noProblem Yes, the code is written really well.
+noProblem NO I don't find any conflicts in the work which needs to be resolved.
+noProblem Yes, team has written test cases in a proper manner which increases the coverage also
+noProblem Yes, It works perfectly fine. Also, the screencast they uploaded, makes it more easy and convenient for me to understand the portion of changes implemented.
+noProblem Very well written and elaborated.
+noProblem Yes, I believe this code is ready to be deployed as it seems perfeclty fin
+noProblem The code follows DRY principles
+noProblem there was no complicated functions , code strictly followed DRY principle
+noProblem No Changes in the code from the last time. Code is written properly.
+noProblem Code was well written, DRY, and intuitively done. Easy to follow the functionality implemented.
+noProblem No new commits have been made in round 2.
+noProblem All the commits were completed by Oct 31
+noProblem No commits were done in 2nd round.
+noProblem the last commit I see is from Oct 31st.I'm assuming they did not have toÂ change much in the 2nd round
+noProblem No Commit,
+noProblem A small amount of new code was committed in the second round.
+noProblem No new commits were made during the second round.
+noProblem No new commits have been made since the last round. However, there is nothing significant as just codeclimate fixes are remaining.
+noProblem I couldn'tÂ any newÂ commits in the second submission, though the functionalityÂ seemed to be fulfilled in the first round itself.
+noProblem Yes, the coverage has increased and has almost reached to 50%.
+noProblem This project is refactoring and there were not much of functionality changes, I see that teams have changed the existing tests make sure there is no coverage miss
+noProblem The test coverage seems to have increased slightly. Since this is a refactoring project, I wouldn't expect testing to be the focus, so that's pretty good even though the added test case most likely doesn't cover all the work done here.
+noProblem The team had added a test case in the last round, which I think was sufficient to test basic functionality.Â There have been no additions to test cases in the second round.
+noProblem Team added several test cases, and the coverage was seen to increase
+noProblem Yes the code addresses all issues.
+noProblem Yes, refactoringÂ did not impact on the existing operation at all.
+noProblem The system operation works as intended.
+noProblem Yes, this is a refactoring project and the UI works as it is supposed to, after their code changes. All the functionalities seem to be intact. Good job there!
+noProblem The system operation works as intended from the link provided.
+noProblem The team has explained the issue and the solution they chose with enoughÂ Â details to understand to way of implementation.
+noProblem overall it is well written, they can add reference section where they can put the link to the project etc.
+noProblem The write-up is to the point and explains their approach neatly. The team has made efforts to update the write-up with the provided suggestions and it has improved the write-up.
+noProblem The writeup was elaborate, and fully elucidated the test added and the removed methods and SQL lines and their scope.
+noProblem I strongly believe that this code is ready for production server
+noProblem Changes are working perfectly.
+noProblem I think this code is ready to go, because it is better organized and structured than it used to be.
+noProblem I think that it is a neatly written code and once the integration issues have been resolved, it should be ready to be deployed on th production server.Â The code being readable, can be easily picked up by the future team.
+noProblem build is passing on Travis CI. there are no pending conflicts
+noProblem Ignoring this question since it is an OSS project.
+noProblem Though there were several build fails during the first round which seem to have been triggeredÂ on bundle exec, the final build passes in Travis CI
+noProblem Could not see any commits after the last submission as functionalities were working fine, but team could have worked upon improving test coverage.
+noProblem No, no new code was committed during 2nd round.
+noProblem No Commits
+noProblem No new code was committed during the 2nd round.
+noProblem Team s last commit was on Oct 31st , which was the first deadline.
+noProblem Good Job on the test cases.
+noProblem Yes, test cases were written for admin_controller and roles_controller. The test cases increased the coverage as well. Every method in these files are tested and covers a good range of this project.
+noProblem When open from the UI, working fine and as expected. No refactoring required.
+noProblem Yes, the system operation works well. All the functionalities mentioned work properly.
+noProblem Yes, the system works fine and as intended. The features work as they are supposed to.
+noProblem They had to create a superuser who has a right to delete other users . When checked these functionalities were working upto 80% expectation. The tests written do cover the portion assigned to them and the tests are thorough.
+noProblem The write-up is well organized but it would have been better if some screenshots were uploaded along with the steps. That would have made the document easier to understand.
+noProblem The writeup is short and precise - has everything that is needed for testing and understanding and kept the writeup small for better understanding. They have mentioned about their DRY principle within "Changes" itself. Mentioning it as a separate sub topic will give more visibility is what I felt. Other than that everything is self explanatory.
+noProblem The writeup is well written. It covers almost all the work done. However, one suggestion would be to include more details about hoe the tests were done. I just one small portion dedicated to explanation of RSpec and not the work implemented.
+noProblem No it should go through more edge cases testing
+noProblem As mentioned above, the functionalities work well. So, yeah this can deployed on the production server.
+noProblem After fixing the issues suggested by code climate, the code can be deployed.
+noProblem Pull request build passed well and there are no issues.
+noProblem The pull request has passed the Travis CI
+noProblem Yes , it can be deployed and is a good starting point for teams in the future.
+noProblem I think the code can be merged. All the test cases seem to cover the edge cases and my testing shows that the things function as expected.
+noProblem Yes it is ready to be deployed.
+noProblem Travis CI says tests have failed but these don't include the tests written by the team.
+noProblem The Travis CI build passed , the code does not have any conflicts with the master. Initially (stage 1) a lot of changes were made so that the Travis CI build would pass. Kudos for effort!
+noProblem The code has passed the Travis CI build has passed. The danger build has also passed with one warning because of more that 500 Lines of Code. On the other hand the codeclimate build has failed with 7 issues to fix.Â 1. There is a method get_feedback_assessments_for which has a Cognitive Complexity of 9 (which exceeds 5) and must be refactored. 2. The model class Team contains 21 methods (which is more than the 20 allowed) and hence has to be refactored. 3. The method view_heatgrid has 28 Lines of code that exceeds the allowed 20 and hence has to be refactored. 4. The method set_content has a Cognitive Complexity of 6 (which exceeds the allowed 5) and hence has to be refactored 5. Presence of an unescaped model attribute in the file app/views/response/view.html.erb 6. Assignment Branch condition size for get_feedback_assessments_for is too high 7. Indentation issues in app/models/assignment_participant.rb There are no conflicts with the ba
+noProblem The build has passed and there have not been any conflicts.
+noProblem The CI build has passed and there are no conflicts.
+noProblem A lot of outdated approaches were used. Refactoring was needed.
+noProblem The code was written pretty well.
+noProblem No commits needed after first review.
+noProblem No new commits. No new bug fixed.
+noProblem The last commit was 12 days ago. I believe that this team had finished their work well before round 1 itself. I think they had planned the work well in advance and followed that plan as well.
+noProblem There were really few commits in the 2nd round. The only commit I could see was on 30th October. The only suggestion I would give is to continuously update their work on git.
+noProblem There is no new commit during the 2nd round.
+noProblem No new test cases added, but the existing ones had a good coverage too.
+noProblem Overall test coverageÂ was decreased by 35%.
+noProblem No need for adding new test cases as the previous submission already achieved 100% coverage. I apologize for not being certain how to accurately answer this question.
+noProblem They didn't add test cases, but the test coverage is always above 90%.
+noProblem There are no new tests and that is because the team had already completed their work before deadline 1 and the coverage was 100% on the deadline one itself so there is basically no scope for improvement for this team.
+noProblem The team did add test cases. They achieved a little more than the desired coverage even , that means they have done a great work.
+noProblem The team added test cases for menu.rb and the coverage increases but the overall coverage seems decrease due to that.
+noProblem From the video, the functionality works well.
+noProblem N/A. This is a unit test project.
+noProblem Yes, the tests cover all the scenarios.
+noProblem The tests cover most of the scenarios as is evident from their mutant killing capabilities.
+noProblem The team was asked to write test cases and get a coverage of around 90%. The team did a really good job in writing test cases for all the methods present in the assigned files.
+noProblem The project has a good coverage of the codes
+noProblem The writeup is well documented
+noProblem The write up is very informative and clearly shows the impact and result of the project tests. It would have been a great addition to have included more discussion on the design choices of your testcases and how it was implemented. Overall a great wiki.
+noProblem The writeup is pretty good and easy to follow.
+noProblem I loved the write-up. Write from the beginning to explaining Expertiza to explaining their task and the test plan which was very detailed and methodical. I also like that they had included a screen shot of the Mutant test which shows the thoroughness of their tests. Overall an impressive job by the authors.
+noProblem The writeup is well written and clearly tells the flow and method of working. It shows clearly what all work is done and how it is done. It mentions specifically the explanation of each functionality and how it is checked.
+noProblem The writeup gives an easy-understanding introduction of the two classes the team needed to test. Also, there is detailed test plan is provided. The wiki also shows how the test cases are designed and the results. However, for the motivation part, it is a little bit general, which needs to add more things specific for this project.
+noProblem a Lot of refactoring is required before the code goes on to production server.
+noProblem The team gives a good guidelines for how to test and what to test for the two classes.
+noProblem Travis CI failed.
+noProblem The travis CI build failed.
+noProblem The code is extremly well-written.
+noProblem Videos and code explained very well.
+noProblem Yes some of the issues were fixed.
+noProblem The code was written clearly, DRY, and intuitive to follow the intended functionality.
+noProblem Yes rspecÂ and few changes were committed
+noProblem Yes, a lot of commits were made mostly to fix the issues pointed out by the CI tools
+noProblem Yes, there were many parts of the code committed during round 2.
+noProblem 5 new commits were made during second round
+noProblem The team has a really good job of committing their code on a regular basis. There has been some code commits even in the 2nd round.
+noProblem Yes, there were few new commits
+noProblem Yes, the team actively committed to the project during the second round.
+noProblem The team seems to have thoroughly tested the use case and the coverage has increased.
+noProblem Yes, the team has added test cases and it covers all the functionalities and issues.
+noProblem Video showing test cases passed. Good Job!
+noProblem YEs, the team has included the relevant test cases to test their changes and the overall coverage has increased by 0.04% which I think covers the scope of this project.
+noProblem Coverage increased by 0.04%
+noProblem Yes the team did add test cases that increased coverage. They are appropriate for the scope of the project.
+noProblem My testing shows things seem to be working as expected and documented.
+noProblem The deployment link hasn't been provided. Though they have put videos for the same
+noProblem It works as intended.
+noProblem Yes code works.
+noProblem From the video links that have been shared, it is very clear that the features are working as they were supposed to. Even the test cases are passing. I see no issues with this part.
+noProblem Looking from videos all the intended features work
+noProblem Yes the code works has expected. it accepts the utf-8 codes now and also parses HTML tags in reviews like expected
+noProblem The write-up is well written explaining all the steps undertaken to make desired changes and displaying how the system works afterÂ the changes have been made (with screenshots). They have also added Test plans in the wiki page
+noProblem Pretty nicely written Wiki. Test Plan also describes how various tests were performed.
+noProblem Yes the write up is good, if they were able to host it'd have been better for checking the work.
+noProblem The write up is well written, elaborate, and clearly elucidates both the manual test cases considered as well as the automated tests implemented. Screenshots of both cases were also included as well. Steps for manual testing were clearly written.
+noProblem The team has considerably improved the write-up. The write-up was very inefficient and dint provide details of the code-base also the video was encoded and impossible to view in Round 1. The team has rectified all these issues with round 2. they have documented their fixed more clearly with screen shots and code this time.
+noProblem It can be deployed but first, it should be tested thoroughly.
+noProblem I think the changes are tested nicely and seem to cover all the necessary cases. This can be merged into the master branch and is ready for production use
+noProblem Its ready to be merged.
+noProblem In my opinion, this team has done pretty good work and the code looks like ready to be deployed on the production server.
+noProblem Yes, just fix the few issues present and that should be fine for it to be merged into main line as the feature seems to work and there isn't any major code issue.
+noProblem Pull request build passes well and there are issues.
+noProblem The build has successfully passed the Travis CI test and there are no merge conflicts present in the pull request. However, there were a few code climate issues which I think can be easily fixed.
+noProblem The travis ci test passes.
+noProblem The build passed in Travis CI with no conflicts.
+noProblem Code is short, variables and functions are well-named.
+noProblem the code is very well written. there are no bad names, long functions or any lack of comments. The code written by the team is self-explanatory.
+noProblem The variables, methods and class names are aptly named. I could not find names which are not suggestive of functionality. (i) The writeup is well written and easy to read and well commented (ii) It is adequately descriptive of the work done. (iii) Explanation of reasons for the style of code and problem solving approach is lacking.
+noProblem The code is concise and easy to understand. The team has provided comments to explain the logic of the new function created which really helps.
+noProblem The code was well-written in the first round itself and followed good coding standards.
+noProblem A few bug fixes were made after the first round of submissions
+noProblem There were only 2 commits made during the second round. However, the team had mostly implemented most of the functionality during the first round, maybe due to which there are less commits in the second round
+noProblem The Ui and system operations works well as intended. They newly added features works perfectly as they are supposed to do.
+noProblem Everything works as expected except for the case mentioned above.
+noProblem Some of the functionalities have been implemented but the pull request is yet to be merged with the master branch
+noProblem No credential provided for login. Hence, couldn't check.
+noProblem The write-up clearly mentions how to check/test the work done by the team. it includes almost everything the team has changed during their project.Â It clearly mentions the filenames where the changes have been made. All the references are also included in the write-up
+noProblem The team has provided an excellent write-up with proper explanation of the problem statement and the solutions they have provided. The team has also includedÂ a video which make things really easy to understand. The team has shown navigation structure of the expertiza menu, which makes the workflow clear.
+noProblem very nice code, easy to read and understand.
+noProblem The code written by the team satisfies the basic functionality expected. The team followed the comments from previous round of using good naming conventions for certain variables.
+noProblem yes, new code committed during the 2nd round.
+noProblem Yes new commit is done for second review,
+noProblem Yes, the team covered 100% of the code they had to test. Also, the video given in the link was very informative and helped to understand the implications of the work done by the team to a far greater extent.
+noProblem The coverage is 100% since the first round. It seems there's no newly added tests.
+noProblem 100 percent coverage.
+noProblem They reached 100% at first round.
+noProblem Yes, the team covered all the scenarios I could have come up with. I specially appreciate the work that they've put into the import functionality. They have come with with more scenarios than I couldÂ have even thought of, and tested it pretty thoroughly.
+noProblem The project successfully covered all the scenarios.
+noProblem nil test were added, all scenarios are covered.
+noProblem very nice writeup.
+noProblem The write-up is well written in my thought, it is clear and understandable.
+noProblem The team has presented a working deployment to be possible. It passes most of the builds and can be deployed on the production server.
+noProblem Yes, the Travis CI is passed. No conflict that are remain do be resolved.
+noProblem the build passed in Travis CI.
+noProblem Travis build : passed.
+noProblem The code looks good with the standards followed. The changes are explained in the wiki for the same. Also, the video has been uploaded but doesnt seem to have the audio with it.
+noProblem The code is perfect right now.
+noProblem Yes, through their commit record, I have seen some improvement.
+noProblem Yes, they have improved after the last review
+noProblem I dont seem many commits for round 2, but yes the video has been added for explanation. Also, the wiki is pretty well explained with the code.
+noProblem Yes, there's new commits.
+noProblem yes, new code committed during the second round.
+noProblem Yes, according to the commit record, they have commit new code during the 2nd round.
+noProblem The second commit is perfect. it got perfect coverage. But it seems that the 100% coverage was so since the first round. But the new commitedÂ code as better code style and no more indentation issue
+noProblem Yes, they have added some test cases, and coverage increased.
+noProblem 100 % coverage achieved. Great work!
+noProblem The team did a great job inÂ increasing the test coverage to 100%.
+noProblem This is a testing project. The tests have covered all the scenarios possible.
+noProblem great writeup.
+noProblem The document is well written with all the required details.
+noProblem Yes, for production code itself is perfect.
+noProblem As explained in the video, the build seems to work fine.
+noProblem Yes, it passed all the pull requests.
+noProblem The build successfully passes Travis CI.
+noProblem The commits show equal contribution by all team members.
+noProblem Well written with understandable content
+noProblem The code was very well-written and up to to servo standards.
+noProblem This code seems to be well structured and written
+noProblem Yes, It was committed and the changes were merged
+noProblem Yes new code was added and committed during the 2nd round that implements oscillator node example to exercise different oscillator types and generate triangle waveform.
+noProblem Yes, new commits were made during the second round.
+noProblem I don't see any tests in this project.
+noProblem The team's test plan includes running the oscillator binary file using the command ./oscillator. This will run the oscillator.rs where various oscillator nodes corresponding to sine, square, sawtooth and triangle waveforms are generated. Hence, the user will be able to listen to these waves after a definite interval.
+noProblem It's working.
+noProblem I'm not really sure how to categorize this project, but it seems to be structured and implemented properly.
+noProblem The writeup was really well explained.
+noProblem Writeup is good and understandable. Test plan is written well indicating the steps clearly in what needs to be done to test.
+noProblem Well-written and self explanatory.
+noProblem The writeup starts off by introducing Servo- Mozilla's experimental high performance browser engine and Rust- which is a systems programming language with memory safety and concurrency used to build Servo. It then moves over to Web Audio API for handling audio operations inside audio context and allow modular routing, and a workflow for implementing Web Audio was clearly listed. It then flows into the scope of the project and the implementation. The graphical and mathematical representation of the sine, square, sawtooth and triangle waveform gave a solid conceptual foundation. The code snippet of the changes done in oscillator_node.rs and the new file oscillator.rs (created by the team) has also been included. The section Build that explains the procedure to install dependencies (Rust), step by step procedure for building and running the build was very useful to explore the project. The team had included the build instructions for Windows and Debian-based Linux. They could have augmented the build instruct
+noProblem The writeup is very detailed and gave me a good idea of what was going on with this project.
+noProblem It is already deployed on the production server
+noProblem The project is in great shape and has already been merged to the servo repository on Github which means that it is production ready. The team has fixed the few formatting issues pointed by a servo team member.Â The approach taken up by the team is in line with what is expected of them and it is a good start to advance the Webaudio API of the servo browser engine in the future.
+noProblem I believe this code is ready to be deployed, and if it isn't, it can definitely be picked up in the future.
+noProblem The project follows most of the DRY principles
+noProblem Yes the code has been well written and very ruby like. The usage of existing gems is good. Functions have were good. I did not find many issues with the first review. So authors have kept it the same. very well done. Â I wanted few more comment in code but thats okay.
+noProblem This is not an expertiza project, but the pull request does pass.
+noProblem Not an expertiza project.
+noProblem Properly explained write up, with old and new changes.
+noProblem The writeup I must say has been one of the best I have seenÂ so far. It clearly mentions all the issues that they were facing and were asked to tackle. The solutions are well documented as well. The screenshots help in understanding the problems that they fixed.
+noProblem test cases were added to increase the coverage.
+noProblem The team has added test cases and the coverage has increased marginally for most files. However, the coverage reduced for one file which might be because a particular corner case was not tested.
+noProblem Coverage is present, slightly increases the overall project coverage.
+noProblem no new commits.
+noProblem The team has not made any new commits in round 2 because they did the code implementation in round 1.
+noProblem The last commit was made on Oct 31
+noProblem No new code was necessary.
+noProblem No new commits in 2nd phase
+noProblem No new commits during the second round.
+noProblem Yes everything does seem to work properly. Since this was a refactoring project every feature worked as it was supposed to.
+noProblem This project is based on emails which cannot be tested in test environment.
+noProblem Features work as expected.
+noProblem The team has implemented most of the required functionalities
+noProblem The features work as they are supposed to, only problem is with the code using excessive if-else like structure. Code is brittle in this sense. Could have made functions and passed parameters to make it more flexible.
+noProblem Functionality seems correct.
+noProblem The refactored mailer with the use of Sidekiq works as intended.
+noProblem The write up addresses details of all the three problem statements along with the code changes done in every file and the files added. The team has also added screenshots of the manual testing.
+noProblem The writeupÂ is comprehensive and includes code that was added so it is easy to understand.
+noProblem The test section has been improved with more detail.
+noProblem authors have added a new doc in addition to wiki. i think that is not required, they could have simply added that in the wiki.Â as in review 1 would have liked a. link to the issue in problem statementÂ 2.Â more details in why this sidekiq was used and not other message queue
+noProblem Write up is elaborate, and elucidates the test cases and tests well.
+noProblem code can be deployed on production server as necessary test cases and implementation has been carried out succesfully.
+noProblem I think we cannot add it to production because i feelÂ authorization for the newly added pages is required.Â once that is done it should be okay to add the code after further testing
+noProblem build did not pass in travis ci.
+noProblem The build has passed and has no conflicts with the base branch.
+noProblem Some of the tests passed but there are still some unresolved build errors on Travis CI. There are pending issues which need to be rectified
+noProblem Travis CI runs smoothly and no errors occurred. No conflicts occurred.
+noProblem Everything checks out.
+noProblem The code was well written and looks dry. However, a few comments could be added to make the code more understandable.
+noProblem The code was committed frequently during the second round.
+noProblem The code is ready to be deployed onto the production server and in fact,Â the project was even partially merged.
+noProblem The write-up is good and it clearly explains what each portion of the changedÂ code is intended for.
+noProblem The project is about improving email notifications.Â Yes, it works as intended. Screenshots of the code and changes made have been clearly described. The tests cover all the scenarios.
+noProblem The write-up is very detailed as to what features have been implemented but lacks on explaining how they are implemented. It can be improved by adding how the features have been implemented, why they chose this logic to implement the features.
+noProblem NoÂ this code is not ready to be deployed onto the production server. Minor bugs said by the Travis CI can be fixed. Also, Add test cases and after thorough testing, it should be good to be deployed andÂ hence this will be a good starting place for a future team to pick up.
+noProblem Yes lot of code has been checked in most oct 31. Good work
+noProblem The code is well modularized and appropriate names are used for methods.
+noProblem yes new commits were added during the second round.
+noProblem I still see some lint issues and commented-out code. The code looked fairly DRY and compliant with standard Ruby style and looks that way still.
+noProblem Writeup is decent. I felt that code should have been quoted rather than included pictures of as that would make it easier to modify. The pngs weren't same size which appears to be negative that peopleÂ have commented on my work too.
+noProblem Spec needs to be fixed before merge.
+noProblem The code is well written. I did not see any bad naming conventions or bad coding style.
+noProblem No need for test cases. (+1 for mentioning it in the Wiki!)
+noProblem Not required
+noProblem Test cases were not required for this project.
+noProblem The test cases were required as the chnages were related to UI. The team mentioned the same in the wiki.
+noProblem yes, the ui operations works as intended.the features fixed now works as intended.
+noProblem Since the project was deployed hence manual testing could not be done but the screenshots show that the project works as intended.
+noProblem The feature works as per the video shown.
+noProblem Fro video it seems to work as intended.
+noProblem the video explains the new functionality and the functionality is working as expected. Good job!
+noProblem Yes, it works as expected.
+noProblem Writeup has been improved after the first review. The codes now look more comprehensive.
+noProblem The write was good and well-written. However, it would have been better if some screenshots were also present in the writeup. May be juxtaposing the screenshots of 'before and after' of fixing the issues. That would have made the write-up easier to understand.
+noProblem The deployed link application again goes to video only, if deployment isn't done they could've removed the link.
+noProblem In my opinion, the project is ready to be deployed and does not need to adopt a different approach.
+noProblem The deployed application was not available, so it cannot be accurately predicted if the code functions as intended. However the vedioÂ links in the google drive show that the issues have been resolved through existing code.
+noProblem The code is very well written and comments are properly given. Also the variables are descriptive and ruby guidelines are followed.
+noProblem First review comment weren't addressed.
+noProblem new code was comitted.
+noProblem Few commits can be seen during 2nd phase. Mostly are for test plans.
+noProblem No. The last commit was on oct 21st.
+noProblem The team added many tests. They seem like they would have high coverage, but, with the failing build, this cannot be confirmed easily.
+noProblem sufficient test cases added.
+noProblem Not able to get coverage from the log: https://coveralls.io/jobs/41685719
+noProblem ui works as intended.
+noProblem The features work as intended and the emails are sent to the concerned party.
+noProblem it is good starting place for future team to pickup.
+noProblem No new test cases were added from the previous submit. Test cases already had full coverage so there was no need for additional testing. I was unsure how to answer this question as the rubric says any new test cases added.
+noProblem All code is good, a variable name was even improved during the second round.
+noProblem A small change was made, but there wasn't a need for drastic additions.
+noProblem All necessary code is passing the build.
+noProblem The video makes it clear that the tests work and are covering all aspects necessary.
+noProblem The write up is still good.
+noProblem The code is quite good.
+noProblem The coverage was already at 100%, but they did update it to pass the build.
+noProblem Yes. Variable name changes suggestion was incorporated.
+noProblem Travis tests have failed. No conflicts. The overall test coverage has improved.
+noProblem It is a testing project. The overall test coverage has improved. The tests thoroughly test the menu-bar and the sub-tress of menu bar(sub-menu options) as per the requirements.
+noProblem No UI or functional changes are applicable. All the 29 tests run successfully
+noProblem It is very well documented. No changes were required even during the first review.
+noProblem It improves the test coverage, So once the Travis tests pass, It is ready to be merged with the Master branch. However no production deployment is applicable for test coverage improvement.
+noProblem nicely writtenÂ test cases
+noProblem Did not pass Travis CI
+noProblem Not deployed
+noProblem There is one new commit in round 2.
+noProblem Yes the coverage is 100% already.
+noProblem The code written follows the ruby on rails best practices.
+noProblem Yes, the team has made one commit during the second round. They updated an ambiguous variable name.
+noProblem No, the pull request didn't pass the TravisÂ CI build, but it doesn't have any conflicts with the base branch.
+noProblem Yes, the team has added plenty of tests. The test coverage increased toÂ 100% whereas the overall coverage has increased by 11.4%
+noProblem Yes, the test covers all the scenarios, including testing values of variablesÂ in the menu node and null case scenarios.
+noProblem The team has corrected a single bad name used in the tests. There has been no change done to DRY the code yet. there test as mentioned earlier has few segments repeated throughout each test. For ex, the instantiation of Menu object. There has been no comments added for the code yet.
+noProblem Yes, there has been one commit in round 2, rectifying the bad name used
+noProblem The code is well written, the way the list function was split into multiple modular functions is appreciable. A great amount of effort has gone into fixing the issues.
+noProblem New code added is written well with DRY and no long or complicated functions. I could see file updated has changes on line such as tab and space. Team could work upon indentation.
+noProblem The code is well written. No issues with naming conventions or coding style.
+noProblem overall only 3 commits are made during the entire project. no new code was committed during the second round
+noProblem The last commit is on 10/31.
+noProblem No New commits.
+noProblem Could not see any new commits after last change. Also commits distribution is not equal.
+noProblem No changes were committed in round 2.
+noProblem No new test cases are written.
+noProblem Test Plan could be described better.
+noProblem Team could have added test plan in wiki along with test covered and test description. Also could have worked upon increasing test coverage.
+noProblem Test are written
+noProblem The team has added testcases but lacks coverage. The overall coverage decreased by 10.6% to 37.063%.
+noProblem No test cases are added by the team and overall coverage of the project is decreased by 10.6%.
+noProblem The operations work as intended but need to have automated test cases.
+noProblem I could not get a deployment link or watch a video that demonstrates the work done. So, I'm unable to test.
+noProblem I could neither test it manually nor there were any videos to check the functionality.
+noProblem Write-up is explained pretty well.
+noProblem I think the code need some amount of refactoring before it can be merged with the expertiza master and pushed to production. Some of the functions implemented by the team seem quite long and they should try and restrict the functionality implemented in each function to just one.
+noProblem The code seems very well written and approach seems correct. If they improve the documentation and add test cases after thorough testing, it should be good to be deployed. As it stands, another team in future can pickup the code and implement these improvements.
+noProblem Yes, the code has been written aptly and to the point. The intention is clear.
+noProblem The Travis CI build has failed.
+noProblem Pull request is not passed as well as Travis CI is also failed.
+noProblem Travis CI build is failing. Other things are fine.
+noProblem The code added during this project adheres DRY principles.
+noProblem The code was written at it's best
+noProblem Yes, the code is well written.
+noProblem The team has followed rails best practices while writing the code.
+noProblem All coding principles are followed. //Add more comments.
+noProblem No new changes were committed during the second round.
+noProblem No. They were no commits during round 2.
+noProblem Yes, there are few commits after round 1
+noProblem No, the team hasn't committedÂ any changes during the second round. The last commit was on 31st October 2018.
+noProblem No there were no commits made after Oct 31st.
+noProblem The team did add test cases covering the functionality. The overall coverage increased by 0.004%Â to 47.652%.
+noProblem Yes, they did add the test cases and the coverage increased to 80%
+noProblem coverage is same
+noProblem Yes, it increases the coverage too
+noProblem Changes are covered with new test cases.
+noProblem I followed the steps as mentioned in the wiki and it works as expected.
+noProblem Yes Everything works perfectly fine.
+noProblem Works properly
+noProblem Yes, the UI changes according to the specified conditions. After logging in asÂ aÂ student, we can see the team name being displayed at the top of the page.
+noProblem Everything looks fine to me.
+noProblem The writeup is great. I was able to understand the issue and do manual testing.
+noProblem It was very well-written and self explanatory.
+noProblem The wiki page has been written concisely. The team has used screenshots which ease the understanding of the work they've done.
+noProblem The write-up clearly explains the issues faced and the code fixes used to solve them.
+noProblem Comprehensive.
+noProblem Yes, the code changes are simple and to the point. I don't see any other way it could be done.
+noProblem The user name issue seems to not have been resolved when tested manually. The code may be deployable and would not cause a problem since there are not many complicated changes.
+noProblem Yes, the changes have passed all theÂ checks and can be deployed in production.
+noProblem ExcellentÂ work
+noProblem In good state.
+noProblem Yes, the build passes Travis CI
+noProblem The travis builds on both pull request have passed.
+noProblem No. The test failed.
+noProblem There are no conflicts
+noProblem Yes, the pull request has passed the Travis CI build test and does not contain any conflict with the base branch.
+noProblem Yes, the Travis build is passing.
+noProblem The code is well written and understandable.
+noProblem The code is well written and has proper functions to handle each action. Not too long functions and names are aptly defined
+noProblem The code seemed to be well-written and properly commented. Comments made it very easy to understand the code.
+noProblem Overall the code is written really well. Snake casing has been thoroughly followed and in case of JavaScript, the camel casing is followed.Â No additional suggestions.
+noProblem Yes, code has been committed in round 2.
+noProblem Last commit was on Nov 6
+noProblem Few commits made in 2nd round
+noProblem No link provided but the videos shows that everything is working well.
+noProblem 2 Issues are resolved and when checked from UI,Â featuresÂ are working as expected. Seems like no code refactoring is required.
+noProblem Manual testing could not be performed due to lack of project deployment. But, the screencasts show that everything works fine.
+noProblem The UI seems to work as it should, at least from the writeup.
+noProblem The writeup is great and descriptive. I could find all the info I needed.
+noProblem The writeup is very explanatory with all the screenshots attached which helps in better understanding
+noProblem The write up is well written and explain the features that the team has implemented in a verbose manner.Â The writeup mentions solution description which gives a walk through about what steps were taken to implement the functionality.Â No suggestions.
+noProblem The team has definitely resolved one issue. This could be a starting point for future teams.
+noProblem Yes, the code is written aptly and to the point. I don't see any issues.
+noProblem Yes just a few test plans needed and the code can be deployed on production server.
+noProblem This code can be deployed after solving the issues generated by Travis CI.
+noProblem The approach seems to be correct and the writeup ready to be deployed.
+noProblem This is a code and project that has been honed into perfection. The team has shown due diligence and taken care of long and complicated functions and somewhat shaky coding style from the last submission. They have refactored the code to perfection thus fulfilling all their objectives.
+noProblem The code follows the general guidelines for standard RSpec practices and also keeps the DRY principle in check. It makes a good use of names to specify what each attribute is assigned for.
+noProblem No new commits were committed for the second round. It was cleaned up 13 days ago.
+noProblem No new commits were made during the second round. The latest commit was on OctoberÂ 31st.
+noProblem There wasÂ a substantial amount of commits done in the firstÂ phase of the project but I don't see any commits in the second phase. This could very possibly be because the team might have completed the requirement in the first phase itself.
+noProblem Yes, an excellent job in that regard. They have first explained their test plans, then even provided links to their RSPEC tests which I checked. Then they have run and shown their screenshots of the Rspec tests going through successfully.
+noProblem According to the screenshots uploaded by the authors, the features work as they are supposed to. New questionnairesÂ have been successfully created.
+noProblem Yes, the code has been refactored to cover all the intended scenarios and the tests have been very well document along with testing the edge cases. As per their approach the first segregatedÂ the tests for questionnaires_controller into two test files, questionnaires_controller_spec and quiz_questionnaires_controller_spec and separated the tests for CRUD operations of quiz_questionnaires_controller into the quiz_questionnaires_controller_spec, renaming them from view_quiz, create_quiz and the like to view and create.Â This in my opinion is a thoroughÂ enoughÂ test.
+noProblem The system works as intended. The project required to make the features work such as removing hardcoded parameters as save_choice method, replacing switch statements with subclass methods and creating models for the subclasses.
+noProblem Extremely well written Wiki Page, thorough and to the point with enough technical content and relevant screenshots pertaining to the before and after scenarios of the problem statements.
+noProblem The writeup gives a gist of the work carried out by team throughout the project. The team added the Test Plan section describing the testing procedures carried out. It is also structured nicely allowing the reader to understand the project in it's entirety.
+noProblem Surely, once the code is sufficiently tested by the TAs, then it is can surely be implemented as a change. Even so, the Travis CI and the overall Coverage should be verified first. Going by their page, it is a finished project and hence no use giving it to the next semester as a project.
+noProblem The code has been working fine, and once the integration conflict is solved, seems ready to be deployed. The future team will be able to pick up from where the current team has left.
+noProblem There is significant improvement in the write up after the first round. It gives good idea of the project.
+noProblem The code changes seem to be fine. I do not see any problems regarding the code as it is pretty well explained in the wiki as well.
+noProblem Overall, the code was well written. As mentioned earlier, the only change the team had to make was add color codes. Hence, no mistake was made in the first round itself. Good Job.
+noProblem Everything seems good.
+noProblem CSS snippets are still written inline. No changes were made after round 1
+noProblem Code looks good, there weren't many changes and mostly are HTML changes so no commenting is required as such as well.
+noProblem The code was very well written. However, that should be a given considering the complexity of the project which wasn't a whole lot.
+noProblem Code is still using DRY principles
+noProblem No new commits were made during round 2.
+noProblem The last commit was made 9 days ago as per the given link. There were not many changes required, so seems fine.
+noProblem I can not see any new commits in second submission as the functionality was working properly in first submission itself.
+noProblem New commits were not added in the 2nd round. In my opinion they were not required as well as the team completed their task in the first round itself.
+noProblem No new content was necessary during the second round.
+noProblem No there were no new commits due to the fact that were no changes to be made
+noProblem No new Commits
+noProblem No test cases were added. No real scope for the test cases to be added to test changes made to HTML code.
+noProblem The test cases are added with good explanation. It does increase the code coverage. The thing I liked that the screenshots itself speak for the test cases.
+noProblem As mentioned in wiki page by team, color change does not affect button functionality, hence no test plan is required. Hence giving full points here.
+noProblem Um, somehow your commits increase the overall coverage of the project (and as mentioned in the write-up, test cases aren't possible).
+noProblem It's UI project, testing isn't required as such. They have still mentioned in there documentation.
+noProblem There are no test cases as it is an UI specific project
+noProblem No tests were added as part of the project. just minimal UI changes
+noProblem Documentation is well-written, instructions is given. Problem statement and solutions are provided. Screenshots are given.
+noProblem Yes, new commits were done in the 2nd round.
+noProblem There are minor fixes related to code style.
+noProblem The team makes several commits during the 2nd round to make improvement.
+noProblem Yes the team added test cases and the overall test coverage has increased.The team has added a lot of tests and I do feel it does cover the range of this project.
+noProblem It is a testing project so test cases are added. The coverage has increased to 97.5 percent for Vm-Question Response Model.
+noProblem Yes, the coverage has increased and test cases have been added. Coverage is more than 50%.
+noProblem Coverage has increased from 11 to 97%. It is impressive. Great Job! The team has achieved what they were looking for.
+noProblem The team added new test cases and make the coverage increase also the overall coverage for the whole system has increased
+noProblem There wasn't any link provided to check if the UI was working fine. But there was a YouTube video showing the tests successfully running. And also the tests did seem to cover almost all the scenarios.
+noProblem Yes almost all scenarios for vm_question_response model is covered. Good work.
+noProblem This testing project covers all the scenario as required.
+noProblem Since these are unit tests, no UI test needed.
+noProblem The write-up explains what functionality is tested and why. The coverage is also mentioned along with code snippets which is good.
+noProblem Writeup is well written and gives explanation for all the requirements.
+noProblem Code is written very well, comments are detailed and functions and variables are named appropriately. (would just like to point out, in student_task_helper.rb#due_date_color , the variable "rtn" could've been named better!)
+noProblem the team has implemented there testing plan and have been very thorough with there test cases. They seem to have considered a lot of cases and have implemented them in rspec. The only thing that they should do is use different commits for adding test cases.
+noProblem Yes, it works as intended. It would be better if you could add a video recording of the flow/screenshots of the flow in the test plan.
+noProblem The code follows the DRY principles correctly
+noProblem Yes, improved the code.
+noProblem yes,Â 2 commits were made in round 2.
+noProblem Yes, new commits were done.
+noProblem Yes. Twice during the second round.
+noProblem yes, the team had added 2 test cases and the coverage increase is there as well. Newly added tests are enough to cover the range of project.
+noProblem This feature doesn't say the view is of which student. Looking atÂ student_task/list page is confusing since I don't know who am I (which student).
+noProblem Coverage has increased.
+noProblem Coverage increased by a good margin
+noProblem No new test cases are written. From the previous review,Â The authors have converted all the cases discussed inÂ Test PlanÂ into automated tests. Overall coverage increased (+6.3%) toÂ 43.07%
+noProblem The team has added test cases and increased the test coverage.
+noProblem The team has added new testcases in the new submission. The code coverage has also increased. Good work with the testcases.
+noProblem Works as intended. Features work as they are supposed to. Tests cover all scenarios.
+noProblem The system works perfectly as intended.
+noProblem The system works as intended.
+noProblem The video explains the new functionality and the functionality is working as expected. all the scenarios are covered in the rspec test as well. Good job!
+noProblem Overall, it is well written.
+noProblem The writeupÂ has adequate screenshots to help understand the problem statement
+noProblem Contains all the required explanation.
+noProblem Very good. I go by what I said in the first review. It is very legible and I could understand what the project does and how the project does what it does.
+noProblem yes, the code is ready to be deployed onto the server. this is a good starting place for future team to pick up.
+noProblem Looks fine. My biggest concern however is, which student's view opens here?Â Add the feature of impersonation to this, and we get two identical views of student_task/list page: one with this particular feature, and the other, with impersonation feature. What is the difference between these views
+noProblem The color scheme added during this project is working when tested through the UI.
+noProblem With the link provided, operation from UI are working as expected. No refactoring is required for the code change made.
+noProblem Yes, as per the scope of the project, all works beautifully well. Great job team.
+noProblem Works as intended.
+noProblem Yes the color change is as per project. No new tests or re-factoring done as part of the project
+noProblem The writeup is extremely well written. In the earlier round, I gave the team a suggestion to add the steps needed to check out their changes. They have added this part into the wiki now. Thank you and well done :)
+noProblem Write up is written a neat and understandable with system screenshots and steps to test system manually.
+noProblem The writing is good and completely covers the scope of the project.
+noProblem Writeup is good. Explains everything they have done and how they have implemented.
+noProblem No significant change from last round. But the writeup was good. Elaborative with screenshot of code and UI. It clearly mentioned the need for the change. But no approach mention but to be fair, the scope of the project doesnt call for it
+noProblem Yes. The changes made are very basic and should not affect the functionality of the application in any away apart from the cosmetic changes made during the project.
+noProblem Yes . Code seems ready to deploy. Also the approach taken is simple and very much acceptable.
+noProblem I have no concerns regarding merging this into production.
+noProblem Since, there are UI changes, they seem pretty improved
+noProblem I believe the code is the best that it can ever be and should be merged with the expertiza.
+noProblem The build request passed.
+noProblem Well the build technically failed, but seeing as how that's practically impossible for this project, I'll give it a pass.
+noProblem The build has passed and the changes are also well explained in the wiki. As expected, the screenshots of the test cases are also displayed.

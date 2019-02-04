@@ -1,7 +1,7 @@
 from sys import argv
 from math import log
 import mysql.connector
-import MySQLdb
+# import MySQLdb
 
 # db = MySQLdb.connect("localhost", "root", "cic", "naive")
 db = mysql.connector.connect(

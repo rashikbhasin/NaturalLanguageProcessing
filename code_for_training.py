@@ -74,9 +74,12 @@ sup = open("sup.txt", "w")
 print "Final check step modification"
 for _word in vocab:
     for _class in class_prob:
-        print "count(" + _word + "|" + _class + ") - mean(" + _word + ") >? 6*mean(" + _word + ") i.e. " + str(
-            float(count[_word][_class]) - mean[_word]) + ">" + str(6 * mean[_word])
-        if (float(count[_word][_class]) - mean[_word] > 6 * mean[_word]) and (count[_word][_class] > 10):
+        # print "count(" + _word + "|" + _class + ") - mean(" + _word + ") >? 6*mean(" + _word + ") i.e. " + str(
+            # float(count[_word][_class]) - mean[_word]) + ">" + str(6 * mean[_word])
+        print "count(" + _word + "|" + _class + ") - mean(" + _word + ") >? 1.2*mean(" + _word + ") i.e. " + str(
+            float(count[_word][_class]) - mean[_word]) + ">" + str(1.5 * mean[_word])
+        # if (float(count[_word][_class]) - mean[_word] > 6 * mean[_word]) and (count[_word][_class] > 10):
+        if (float(count[_word][_class]) - mean[_word] > 1.3 * mean[_word]) and (count[_word][_class] > 2):
             temp_p = prob[_word][_class]
             prob[_word][_class] = prob[_word][_class] * count[_word][_class]
             print "here***"
@@ -96,9 +99,11 @@ db = mysql.connector.connect(
 cursor = db.cursor()
 for _class in class_prob:
     sql = "insert into probability_class values('%s','%f')" % (_class, class_prob[_class])
+    # print sql
     cursor.execute(sql)
     for _word in vocab:
-        sql = "insert into  probability_word_given_class values('%s','%s','%f')" % (_class, _word, prob[_word][_class])
+        sql = 'insert into  probability_word_given_class values("%s","%s","%f")' % (_class, _word, prob[_word][_class])
+        # print sql
         cursor.execute(sql)
 db.commit()
 db.close()
