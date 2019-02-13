@@ -1,8 +1,8 @@
 import csv
 import re
 
-target_my = open('x.txt', 'w')
-with open('problems.csv') as csv_file:
+target_my = open('new_problem_set_-1.txt', 'w')
+with open('expertiza_negative_values .csv') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     line_count = 0
     for row in csv_reader:

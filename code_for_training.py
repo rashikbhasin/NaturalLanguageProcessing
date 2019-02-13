@@ -99,11 +99,11 @@ db = mysql.connector.connect(
 cursor = db.cursor()
 for _class in class_prob:
     sql = "insert into probability_class values('%s','%f')" % (_class, class_prob[_class])
-    # print sql
+    print sql
     cursor.execute(sql)
     for _word in vocab:
         sql = 'insert into  probability_word_given_class values("%s","%s","%f")' % (_class, _word, prob[_word][_class])
-        # print sql
+        print sql
         cursor.execute(sql)
 db.commit()
 db.close()

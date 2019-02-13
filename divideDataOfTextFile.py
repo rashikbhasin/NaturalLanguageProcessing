@@ -1,10 +1,11 @@
-target = open('x.txt', 'r')
+# target = open('x.txt', 'r')
+target = open('newProblemDataSet.txt', 'r')
 
 lines = target.readlines()
 
-target_problem = open('problemDataSet.txt', 'w')
+target_problem = open('newProblemDataSetMarked.txt', 'w')
 
-target_not_problem = open('notProblemDataSet.txt', 'w')
+target_not_problem = open('newNotProblemDataSetMarked.txt', 'w')
 
 i = 1
 for line in iter(lines):
