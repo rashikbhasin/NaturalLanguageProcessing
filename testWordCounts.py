@@ -45,16 +45,16 @@ target2.close()
 
 for key, value in problemDict.iteritems():
     if key in notProblemDict:
-        if value - notProblemDict[key] > 50:
+        if value - notProblemDict[key] > 100:
             target_problem1.write(str(key) + "," + str(value) + "," + str(notProblemDict[key])+ "\n")
-    elif value > 50:
+    elif value > 100:
         target_problem1.write(str(key) + "," + str(value) + ",0" + "\n")
 
 for key, value in notProblemDict.iteritems():
     if key in problemDict:
-        if value - problemDict[key] > 50:
+        if value - problemDict[key] > 100:
             target_problem2.write(str(key) + "," + str(value) + "," + str(problemDict[key])+ "\n")
-    elif value > 50:
+    elif value > 100:
         target_problem2.write(str(key) + "," + str(value) + ",0" + "\n")
 
 target_problem1.close()
