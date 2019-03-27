@@ -1,4 +1,4 @@
-# NaturalLanguageProcessing
+# Independent Study Project
 #### Main files are:
 #### code_for_classification.py
 #### code_for_training.py
